@@ -1,4 +1,4 @@
-Questions
+# Questions
 Ravila, a new CISO in a healthcare organization, is reviewing incident response records from the past several years. Ravila has determined that minor incidents were managed with too much rigor and complexity, while major incidents weren’t dealt with thoroughly enough. What might be the cause of this?
 
 Lack of training for incident responders
