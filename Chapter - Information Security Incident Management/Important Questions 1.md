@@ -1,3 +1,199 @@
+Questions
+The purpose of a SIEM is:
+
+centrally log event data
+
+correlate events and generate alerts
+
+track remediation of known vulnerabilities
+
+scan systems and devices for new vulnerabilities
+
+Answer:
+B. A security information and event management system (SIEM) is used as a central event log processing system that correlates events among various devices and produces alerts that may represent intrusions and other types of security incidents.
+
+An organization lacks personnel and tools to conduct forensic analysis. What is the best way for the organization to acquire this capability?
+
+Purchase advanced anti-malware tools.
+
+Purchase a security information and event management system (SIEM).
+
+Purchase an incident response retainer.
+
+Post a position for a computer forensics specialist.
+
+Answer:
+C. An organization that lacks personnel and tools to conduct computer forensics should purchase an incident response retainer. With a retainer, forensics experts are available on-call to respond to an incident. While an organization can consider hiring one or more people with these skills, a job search can take several months, and people with these skills command high salaries.
+
+A large organization operates hundreds of business applications. How should the security manager prioritize applications for protection from a disaster?
+
+Conduct a business impact analysis.
+
+Conduct a risk assessment.
+
+Conduct a business process analysis.
+
+Rank the applications in order of criticality.
+
+Answer:
+A. A business impact analysis (BIA) is used to identify the business processes and, hence, the information systems that are most critical for the organization's ongoing operations.
+
+An organization wants to protect itself from the effects of a ransomware attack. What is the best data protection approach?
+
+Periodically scan data for malware.
+
+Replicate data to a cloud-based storage provider.
+
+Replicate data to a secondary storage system.
+
+Back up data to offline media.
+
+Answer:
+D. The best approach for protecting data from a high-velocity attack such as ransomware is to back up the data to offline media that cannot be accessed by end users. Replicating data to another storage system may only serve to replicate damaged data to the secondary storage system, making recovery more difficult or expensive.
+
+The types of incident response plan testing are:
+
+Document review, walk-through, and simulation
+
+Document review and simulation
+
+Document review, walk-through, simulation, parallel test, and cutover test
+
+Document review, walk-through, and cutover test
+
+Answer:
+A. The types of security incident response plan testing are a document review, a walk-through, and a simulation. Parallel and cutover tests are not part of security incident response planning or testing but instead are tests used for disaster recovery planning.
+
+The length of time between incident occurrence and incident detection is known as:
+
+Dwell time
+
+Lag time
+
+Lead time
+
+Propagation
+
+Answer:
+A. Dwell time is the term used to define the period of time between the occurrence of a security incident and the organization's awareness of the incident.
+
+The purpose of attorney–client privilege during an investigation is:
+
+To improve the results of the investigation
+
+To obtain better forensic examination services
+
+To protect investigation proceedings from a discovery order
+
+To improve the integrity of investigation proceedings
+
+Answer:
+C. The purpose of attorney–client privilege is the protection of correspondence and exhibits, including those in an investigation. If an organization that has experienced a security incident believes it may be defending itself in a lawsuit, the organization can choose to protect its investigation (including actions performed by a third-party firm) and its proceedings so that the organization will not be required to turn over that information during the lawsuit.
+
+The purpose of chain of custody procedures is:
+
+To prove the ownership of investigation data
+
+To determine the cause of an incident
+
+To prove the integrity of investigation data
+
+To determine who is responsible for an incident
+
+Answer:
+C. The purpose of chain of custody procedures is to demonstrate the integrity of the investigation, namely, that no information has been altered, including the contents of any computer memory and hard drives.
+
+An organization has developed its first-ever business continuity plan. What is the first test of the continuity plan that the business should perform?
+
+Walk-through
+
+Simulation
+
+Parallel test
+
+Cutover test
+
+Answer:
+A. The best choice of tests for a first-time business continuity plan is a document review or a walk-through. Since this is a first-time plan, other tests are not the best first choice.
+
+An organization is experiencing a ransomware attack that is damaging critical data. What is the best course of action?
+
+Security incident response
+
+Security incident response followed by business continuity plan
+
+Concurrent security incident response and business continuity plan
+
+Business continuity plan
+
+Answer:
+C. If an organization's critical data has been damaged by a ransomware incident, the organization should invoke its business continuity plan alongside its security incident response plan. This may help the organization restore services to its customers more quickly.
+
+What is the most important consideration when selecting a hot site?
+
+Time zone
+
+Geographic location in relation to the primary site
+
+Proximity to major transportation
+
+Natural hazards
+
+Answer:
+B. An important selection criterion for a hot site is the geographic location in relation to the primary site. If they are too close together, then a single disaster event may involve both locations.
+
+An organization has established a recovery point objective of 14 days for its most critical business applications. Which recovery strategy would be the best choice?
+
+Mobile site
+
+Warm site
+
+Hot site
+
+Cold site
+
+Answer:
+D. An organization that has a 14-day recovery time objective (RTO) can use a cold site for its recovery strategy. Fourteen days is enough time for most organizations to acquire hardware and recover applications.
+
+What technology should an organization use for its application servers to provide continuous service to users?
+
+Dual power supplies
+
+Server clustering
+
+Dual network feeds
+
+Transaction monitoring
+
+Answer:
+B. An organization that wants its application servers to be continuously available to its users needs to employ server clustering. This enables at least one server to always be available to service user requests.
+
+An organization currently stores its backup media in a cabinet next to the computers being backed up. A consultant told the organization to store backup media at an off-site storage facility. What risk did the consultant most likely have in mind when he made this recommendation?
+
+A disaster that damages computer systems can also damage backup media.
+
+Backup media rotation may result in loss of data backed up several weeks in the past.
+
+Corruption of online data will require rapid data recovery from off-site storage.
+
+Physical controls at the data processing site are insufficient.
+
+Answer:
+A. The primary reason for employing off-site backup media storage is to mitigate the effects of a disaster that could otherwise destroy computer systems and their backup media.
+
+An organization has just experienced a major earthquake at its operations center. Which should be the organization's top priority?
+
+Ensuring that an automatic failure to the recovery site will occur as personnel may be slow to respond
+
+Ensuring that visitors will know how to evacuate the premises and the location of sheltering areas
+
+Ensuring that data replication to a recovery site has been working properly
+
+Ensuring that backup media will be available at the recovery site
+
+Answer:
+B. The safety of personnel is always the top priority when any disaster event has occurred. While important, the condition of information systems is a secondary concern.
+
 # Questions
 Ravila, a new CISO in a healthcare organization, is reviewing incident response records from the past several years. Ravila has determined that minor incidents were managed with too much rigor and complexity, while major incidents weren’t dealt with thoroughly enough. What might be the cause of this?
 
