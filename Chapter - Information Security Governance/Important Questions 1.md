@@ -1,4 +1,200 @@
 Questions
+Security governance is most concerned with:
+
+Security policy
+
+IT policy
+
+Security strategy
+
+Security executive compensation
+
+Answer:
+C. Security governance is the mechanism through which security strategy is established, controlled, and monitored. Long-term and other strategic decisions are made in the context of security governance.
+
+A gaming software startup company does not employ penetration testing of its software. This is an example of:
+
+High tolerance of risk
+
+Noncompliance
+
+Irresponsibility
+
+Outsourcing
+
+Answer:
+A. A software startup in an industry like gaming is going to be highly tolerant of risk: time to market and signing up new customers will be its primary objectives. As the organization achieves viability, other priorities such as security will be introduced.
+
+An organization's board of directors wants to see quarterly metrics on risk reduction. What would be the best metric for this purpose?
+
+Number of firewall rules triggered
+
+Viruses blocked by antivirus programs
+
+Packets dropped by the firewall
+
+Time to patch vulnerabilities on critical servers
+
+Answer:
+D. The metric on time to patch critical servers will be the most meaningful metric for the board of directors. The other metrics, while potentially interesting at the operational level, do not convey business meaning to board members.
+
+Which of the following metrics is the best example of a leading indicator?
+
+Average time to mitigate security incidents
+
+Increase in the number of attacks blocked by the intrusion prevention system (IPS)
+
+Increase in the number of attacks blocked by the firewall
+
+Percentage of critical servers being patched within service level agreements (SLAs)
+
+Answer:
+D. The metric of percentage of critical servers being patched within SLAs is the best leading indicator because it is a rough predictor of the probability of a future security incident. The other metrics are trailing indicators because they report on past incidents.
+
+What are the elements of the business model for information security (BMIS)?
+
+Culture, governing, architecture, emergence, enabling and support, human factors
+
+People, process, technology
+
+Organization, people, process, technology
+
+Financial, customer, internal processes, innovation, and learning
+
+Answer:
+C. The elements of BMIS are organization, people, process, and technology. The dynamic interconnections (DIs) are culture, governing, architecture, emergence, enabling and support, and human factors.
+
+The best definition of a strategy is:
+
+The objective to achieve a plan
+
+The plan to achieve an objective
+
+The plan to achieve business alignment
+
+The plan to reduce risk
+
+Answer:
+B. A strategy is the plan to achieve an objective. An objective is the “what” that an organization wants to achieve, and a strategy is the “how” the objective will be achieved.
+
+The primary factor related to the selection of a control framework is:
+
+Industry vertical
+
+Current process maturity level
+
+Size of the organization
+
+Compliance level
+
+Answer:
+A. The most important factor influencing a decision of selecting a control framework are the industry vertical. For example, a healthcare organization would likely select HIPAA as its primary control framework, whereas a retail organization might select PCI-DSS.
+
+As part of understanding the organization's current state, a security strategist is examining the organization's security policy. What does the policy tell the strategist?
+
+The level of management commitment to security
+
+The compliance level of the organization
+
+The maturity level of the organization
+
+None of these
+
+Answer:
+D. By itself, security policy tells someone little about an organization's security practices. An organization's policy is only a collection of statements; without examining business processes, business records, and interviewing personnel, a security professional cannot develop any conclusions about an organization's security practices.
+
+While gathering and examining various security-related business records, the security manager has determined that the organization has no security incident log. What conclusion can the security manager make from this?
+
+The organization does not have security incident detection capabilities.
+
+The organization has not yet experienced a security incident.
+
+The organization is recording security incidents in its risk register.
+
+The organization has effective preventive and detective controls.
+
+Answer:
+A. An organization that does not have a security incident log probably lacks the capability to detect and respond to an incident. It is not reasonable to assume that the organization has had no security incidents since minor incidents occur with regularity. Claiming that the organization has effective controls is unreasonable, as it is understood that incidents occur even when effective controls are in place (because not all types of incidents can reasonably be prevented).
+
+The purpose of a balanced scorecard is to:
+
+Measure the efficiency of a security organization
+
+Evaluate the performance of individual employees
+
+Benchmark a process in the organization against peer organizations
+
+Measure organizational performance and effectiveness against strategic goals
+
+Answer:
+D. The balanced scorecard is a tool that is used to quantify the performance of an organization against strategic objectives. The focus of a balanced scorecard is financial, customer, internal processes, and innovation/learning.
+
+A security strategist has examined a business process and has determined that personnel who perform the process do so consistently, but there is no written process document. The maturity level of this process is:
+
+Initial
+
+Repeatable
+
+Defined
+
+Managed
+
+Answer:
+B. A process that is performed consistently but is undocumented is generally considered to be Repeatable.
+
+A security strategist has examined several business processes and has found that their individual maturity levels range from Repeatable to Optimizing. What is the best future state for these business processes?
+
+All processes should be changed to Repeatable.
+
+All processes should be changed to Optimizing.
+
+There is insufficient information to determine the desired end states of these processes.
+
+Processes that are Repeatable should be changed to Defined.
+
+Answer:
+C. There are no rules that specify that the maturity levels of different processes need to be the same or at different values relative to one another. In this example, each process may already be at an appropriate level, based on risk appetite, risk levels, and other considerations.
+
+In an organization using PCI-DSS as its control framework, the conclusion of a recent risk assessment stipulates that additional controls not present in PCI-DSS but present in ISO 27001 should be enacted. What is the best course of action in this situation?
+
+Adopt ISO 27001 as the new control framework.
+
+Retain PCI-DSS as the control framework and update process documentation.
+
+Add the required controls to the existing control framework.
+
+Adopt NIST 800-53 as the new control framework.
+
+Answer:
+C. An organization that needs to implement new controls should do so within its existing control framework. It is not necessary to adopt an entirely new control framework when a few controls need to be added.
+
+A security strategist is seeking to improve the security program in an organization with a strong but casual culture. What is the best approach here?
+
+Conduct focus groups to discuss possible avenues of approach.
+
+Enact new detective controls to identify personnel who are violating policy.
+
+Implement security awareness training that emphasizes new required behavior.
+
+Lock users out of their accounts until they agree to be compliant.
+
+Answer:
+A. Organizational culture is powerful, as it reflects how people think and work. In this example, there is no mention that the strong culture is bad, only that it is casual. Punishing people for their behavior may cause resentment, a revolt, or people to leave the organization. The best approach here is to better understand the culture and to work with people in the organization to figure out how a culture of security can be introduced successfully.
+
+A security strategist recently joined a retail organization that operates with slim profit margins and has discovered that the organization lacks several important security capabilities. What is the best strategy here?
+
+Insist that management support an aggressive program to quickly improve the program.
+
+Develop a risk ledger that highlights all identified risks.
+
+Recommend that the biggest risks be avoided.
+
+Develop a risk-based strategy that implements changes slowly over an extended period of time.
+
+Answer:
+D. A security strategist needs to understand an organization's capacity to spend its way to lower risk. In an organization with profit margins, it is unlikely that the organization is going to agree to an aggressive improvement plan. Developing a risk ledger that depicts these risks may be a helpful tool for communicating risk, but by itself there is no action to change anything. Similarly, recommending risk avoidance may mean discontinuing the very operations that bring in revenue.
+
+Questions
 Which of the following best describes information security governance?
 
 Information security policies.
