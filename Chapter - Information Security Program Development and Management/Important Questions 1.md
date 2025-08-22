@@ -1,4 +1,201 @@
 Questions
+The purpose of security governance is to:
+
+Make risk treatment decisions.
+
+Enforce violations of information security policy.
+
+Provide management with visibility and control of the security program.
+
+Ensure compliance with applicable laws and regulations.
+
+Answer:
+C. The purpose of security governance is to create a means by which executive management is made aware of developments in the organization's security program and to enable them to control outcomes in the program.
+
+The purpose of risk management is to:
+
+Identify risks and make decisions about them.
+
+Control risk mitigation activities.
+
+Facilitate risk assessments and risk analysis.
+
+Facilitate the achievement of strategic program objectives.
+
+Answer:
+A. Risk management is the life-cycle process whereby new risks are identified, analyzed, and decisions made concerning their disposition.
+
+The definition of risk is:
+
+Threat times impact
+
+Threat plus vulnerability
+
+Threat times vulnerability
+
+Probability times impact
+
+Answer:
+D. The definition of risk is probability × impact.
+
+The identification of unwanted events and their likelihood of occurrence is known as:
+
+Risk analysis
+
+Vulnerability analysis
+
+Threat analysis
+
+Probability analysis
+
+Answer:
+C. Threat analysis is the examination of all reasonable threats.
+
+A weakness in a system that makes it possible for an attacker to successfully compromise it is known as a:
+
+Threat
+
+Vulnerability
+
+Risk
+
+Patch
+
+Answer:
+B. A vulnerability is a weakness in a system that could be exploited by an attacker.
+
+The purpose of quantitative risk analysis is to:
+
+Update financial statements with risk scenarios.
+
+Understand the potential cost of a breach.
+
+Understand the probability of a breach.
+
+Determine the most likely method of a breach.
+
+Answer:
+B. Quantitative risk analysis is used to determine the potential cost of a breach.
+
+The four options for risk treatment are:
+
+Mitigate, transfer, avoid, accept
+
+Accept, share, transfer, ignore
+
+Ignore, accept, share, mitigate
+
+Mitigate, ignore, share, accept
+
+Answer:
+A. The four options for risk treatment are mitigate, transfer, avoid, and accept.
+
+The best place to document new risks is:
+
+Asset ledger
+
+Risk ledger
+
+Incident log
+
+GRC system
+
+Answer:
+B. New risks are recorded in the organization's risk ledger.
+
+The purpose of control self-assessments is to:
+
+Transfer risk to control owners.
+
+Reduce audit costs.
+
+Reduce workload in internal audit.
+
+Reinforce accountability for control effectiveness.
+
+Answer:
+D. Control self-assessments involve control owners and empower them to identify problems with their controls.
+
+The purpose of security policy is:
+
+Comply with regulations requiring policy.
+
+Enforce accountability for all employees.
+
+Restate security controls in everyday language.
+
+Define acceptable and unacceptable behavior.
+
+Answer:
+D. Security policy, and every other policy, defines acceptable and unacceptable behavior.
+
+The best method for identifying third-party service organizations is to:
+
+Inventory all legal agreements.
+
+Examine firewall access logs.
+
+Consult with legal, procurement, and IT.
+
+Consult with accounting and legal.
+
+Answer:
+C. The best method for identifying an organization's third-party service organizations is to work with key departments including IT, legal, procurement, finance, and others.
+
+The purpose of event monitoring to is:
+
+Identify anomalous behavior on the part of employees.
+
+Confirm that all systems and devices are performing adequately.
+
+Confirm that all systems and devices are in compliance with policy.
+
+Identify unwanted events that could be a sign of a security breach.
+
+Answer:
+D. Event monitoring is used to identify events that could be a sign of unwanted behavior including a security breach.
+
+The purpose of vulnerability management is to:
+
+Identify and remediate vulnerabilities in all systems.
+
+Transfer vulnerabilities to low risk systems.
+
+Identify exploitable vulnerabilities in all systems.
+
+Transfer vulnerabilities to third parties.
+
+Answer:
+A. The purpose of vulnerability management is to identify vulnerabilities in information systems and devices and to remediate vulnerabilities on a schedule according to risk.
+
+Intrusion prevention systems are different from firewalls because:
+
+Their rules can be changed automatically.
+
+They examine the contents of headers instead of the entire payload.
+
+They examine the contents of packets instead of just the headers.
+
+They alert personnel about threats but do not stop them.
+
+Answer:
+C. The main difference between intrusion prevention systems and firewalls is that intrusion prevention systems examine the entire contents of packets, whereas firewalls examine only packet headers.
+
+The purpose of web content filters is to:
+
+Permit management to track who visits which web sites.
+
+Block user access to web sites that pose a threat.
+
+Block user access to web sites that are a waste of time.
+
+Scan content for malware.
+
+Answer:
+B. The main purpose of web content filters is to block user access to web sites that pose a threat of some kind.
+
+
+Questions
 Ravila is a new CISO in a healthcare organization. During strategy development, Ravila found that IT system administrators apply security patches when the security team sends them quarterly vulnerability scan reports. What is the most effective change that can be made in the vulnerability management process to make it more proactive versus reactive?
 
 Have IT system administrators run vulnerability scans on their own systems.
