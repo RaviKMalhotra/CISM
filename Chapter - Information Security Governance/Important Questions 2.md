@@ -1,4 +1,5 @@
 Q Questions
+
 Which of the following best describes information security governance?
 
 Information security policies
@@ -348,3 +349,369 @@ Perform a root cause analysis (RCA) to determine why business process maturity h
    A. The best answer here is to determine any gaps between current and future maturity levels so that any processes needing improvement can be improved and measured.
 
    B, C, and D are incorrect. B is incorrect because level 5 is not necessarily a realistic goal for maturity in an organization. An average maturity between 2.5 and 4 is acceptable and appropriate in many organizations. C is incorrect because it is normal and acceptable for some processes to have lower maturity levels than others. D is incorrect because there is no indication here that the maturity of any processes has declined. RCA, however, may be a reasonable activity to undertake if the maturity of a specific process has declined in order to understand how to mitigate it.
+
+Questions Q
+What is the best method for ensuring that an organization’s security program achieves adequate business alignment?
+
+Find and read the organization’s articles of incorporation.
+
+Understand the organization’s vision statement, mission statement, and objectives.
+
+Study the organization’s chart of management reporting (the “org chart”).
+
+Study the organization’s financial chart of accounts.
+
+   B. The best way to align an information security program to the business is to find and understand the organization’s vision statement, mission statement, goals, and objectives. Many organizations develop and publish one or more of these statements. Others take a simpler approach and develop strategic objectives for a calendar or fiscal year. Whatever can be found is valuable: once a security manager understands these statements, then he or she can prioritize resources and activities in the information security program to support the vision, mission, goals, or other strategic statements.
+
+   A, C, and D are incorrect. A is incorrect because an organization’s articles of incorporation do not provide sufficient information about an organization’s mission or objectives. C is incorrect because the org chart reveals little about what the organization wants to accomplish. D is incorrect because the organization’s financial chart of accounts reveals little or nothing about the organization’s strategic objectives.
+
+Robert has located his organization’s mission statement and a list of strategic objectives. What should Robert do to ensure that the information security program aligns with the business?
+
+Discuss strategic objectives with business leaders to understand better what they want to accomplish and what steps are being taken to achieve them.
+
+Develop a list of activities that will support the organization’s strategic objectives, and determine the cost of each.
+
+Select those controls from the organization’s control framework that align to each objective, and then ensure that those controls are effective.
+
+Select the policies from the organization’s information security policy that are relevant to each objective, and ensure that those policies are current.
+
+   A. The best first step to aligning an information security program to the organization’s strategic objectives is to understand those objectives fully, including the resources and activities that will be employed to achieve them.
+
+   B, C, and D are incorrect. B is incorrect because, without a dialogue with business leaders, simply identifying supporting activities is likely to miss important details. C is incorrect because proper alignment of an information security program does not generally begin with the selection or implementation of controls. In fact, the implementation of controls may play only a minor part (if any) in support of strategic objectives. D is incorrect because proper alignment of an information security program does not generally involve identifying relevant security policies. This may be a minor supporting activity but would not be a primary activity when aligning a program to the business.
+
+Michael wants to improve the risk management process in his organization by creating guidelines that will help management understand when certain risks should be accepted and when certain risks should be mitigated. The policy that Michael needs to create is known as what?
+
+Security policy
+
+Control framework
+
+Risk appetite statement
+
+Control testing procedure
+
+   C. A risk appetite statement (sometimes known as a risk tolerance statement or risk capacity statement) provides guidance on the types of risk and the amount of risk that an organization may be willing to accept, versus what risks an organization may instead prefer to mitigate, avoid, or transfer. Risk appetite statements are most often created in financial services organizations, although they are used in other types of organizations as well. They help management seek a more consistent approach to risk treatment decisions. In part, this can help management avoid the appearance of being biased or preferential through the use of objective or measurable means for risk treatment decisions.
+
+   A, B, and D are incorrect. A is incorrect because a security policy is not a primary means for making risk treatment decisions. B is incorrect because an organization’s controls framework is not typically used for making risk treatment decisions. D is incorrect because control testing procedures are not related to risk treatment decisions.
+
+Two similar-sized organizations are merging. Paul will be the CISO of the new combined organization. What is the greatest risk that may occur as a result of the merger?
+
+Differences in practices that may not be understood
+
+Duplication of effort
+
+Gaps in coverage of key processes
+
+Higher tooling costs
+
+   A. A merger of two organizations typically results in the introduction of new practices that are not always understood. The CISO may specify directives to the new combined security organization that could result in an increase in one or more risks. For example, the combining of two different organizations’ device hardening standards could result in a new standard that results in new and unforeseen vulnerabilities.
+
+   B, C, and D are incorrect. B is incorrect because duplication of effort is not the greatest risk. C is incorrect because coverage gaps are a potential risk, but they are not the greatest risk. D is incorrect because higher tooling costs, if managed properly, are a short-term spending matter that should not result in increased risk.
+
+Which of the following is the best description of the Business Model for Information Security (BMIS)?
+
+It describes the relationships (as dynamic interconnections) between policy, people, process, and technology.
+
+It describes the relationships (as dynamic interconnections) between people, process, technology, and the organization.
+
+It describes the primary elements (people, process, and technology) in an organization.
+
+It describes the dynamic interconnections (people, process, and technology) in an organization.
+
+   B. The Business Model for Information Security (BMIS) describes the dynamic interconnections between the four elements of an organization: people, process, technology, and the organization itself. The dynamic interconnections describe the relationship between each of the relationship pairs. For example, the dynamic interconnection between people and technology, known as human factors, describes the relationship between people and technology.
+
+   A, C, and D are incorrect. A is incorrect because the organization element of BMIS is missing in this answer. C is incorrect because there are four primary elements in an organization: people, process, technology, and the organization itself. D is incorrect because people, process, and technology are not the labels for the dynamic interconnections. Instead, the dynamic interconnections are human factors (between people and technology), emergence (between people and process), enabling and support (between process and technology), culture (between people and organization), architecture (between technology and organization), and governing (between process and organization).
+
+What is the correct name for the following illustration?
+
+
+COBIT Model for Information Technology
+
+COBIT Model for Information Security
+
+Business Model for Information Security
+
+Business Model for Information Technology
+
+   C. This illustration depicts the Business Model for Information Security (BMIS), which was developed by ISACA to help individuals better understand the nature of the relationships between people, process, technology, and the organization itself.
+
+   A, B, and D are incorrect. These answers are all distractors.
+
+Jacqueline, an experienced CISO, is reading the findings in a recent risk assessment that describes deficiencies in the organization’s vulnerability management process. How would Jacqueline use the Business Model for Information Security (BMIS) to analyze the deficiency?
+
+Identify the elements connected to the process DI.
+
+Identify the dynamic interconnections (DIs) connected to the process element.
+
+Identify the dynamic elements connected to human factors.
+
+Identify the dynamic elements connected to technology.
+
+   B. The deficiency was identified in the vulnerability management process. The CISO would see what dynamic interconnections (DIs) are connected to the process element. They are emergence (connecting to people), enabling and support (connecting to technology), and governing (connecting to organization). A description of the deficiency in the vulnerability management process should lead Jacqueline to one of the dynamic interconnections, emergence, enabling and support, and governing. In this case, the process deficiency is related to the frequency of scans, which is most likely the governing DI. Further investigation reveals that policy permits vulnerability scans only during small service windows, which are not enough time for scans to be completed. The solution to this deficiency is likely a process or policy change so that scans will be permitted to run through to completion.
+
+   A, C, and D are incorrect. They are all improper uses of the BMIS.
+
+Which of the following would constitute an appropriate use of the Zachman enterprise framework?
+
+An IT service management model as an alternative to ITIL
+
+Identifying system components, followed by high-level design and business functions
+
+Development of business requirements, translated top-down into technical architecture
+
+IT systems described at a high level and then in increasing levels of detail
+
+   D. Zachman is an IT enterprise framework that describes IT systems at a high level and in increasing levels of detail, down to individual components.
+
+   A, B, and C are incorrect. A is incorrect because Zachman is not an IT service management framework. B is incorrect because Zachman is a top-down framework, not a bottom-up framework as described. C is incorrect because Zachman does not start with business requirements, but rather describes only the IT architecture itself.
+
+An IT architect needs to document the flow of data from one system to another, including external systems operated by third-party service providers. What kind of documentation does the IT architect need to develop?
+
+Data flow diagrams (DFDs)
+
+Entity relationship diagrams (ERDs)
+
+A Zachman architecture framework
+
+Visio diagrams showing information systems and data flows
+
+   A. The IT architect needs to develop data flow diagrams, which are visual depictions showing information systems (and information system components, optionally) and the detailed nature of data flowing among them. DFDs are sometimes accompanied by documents that describe metadata, such as system specifications and descriptions.
+
+   B, C, and D are incorrect. B is incorrect because an entity relationship diagram (ERD) does not depict data flows among and between information systems. Instead, ERDs describe entities (for instance, information systems) and the relationships between them. ERDs are often depicted visually. C is incorrect because a Zachman framework describes the architecture of an IT environment in detail, but not necessarily the flows of data between systems in an environment. D is incorrect because this is a vague description. Although it is true that a DFD may be composed in Visio (or other graphical drawing tool), this is not the best answer because it is unspecific.
+
+Carole is a CISO in a new organization with a fledgling security program. Carole needs to identify and develop mechanisms to ensure desired outcomes in selected business processes. What is a common term used to define these mechanisms?
+
+Checkpoints
+
+Detective controls
+
+Controls
+
+Preventive controls
+
+   C. “Controls” is the best term describing the mechanisms designed to ensure desired outcomes in business processes.
+
+   A, B, and D are incorrect. A is incorrect because “checkpoints” is not the term that describes these mechanisms. B is incorrect because there will be not only detective controls but also preventive controls, administrative controls, and perhaps even compensating and recovery controls. D is incorrect because there will be not only preventive controls but also detective controls, administrative controls, and perhaps even compensating and recovery controls.
+
+What is the best approach to developing security controls in a new organization?
+
+Start with a standard control framework and make risk-based adjustments as needed.
+
+Start from scratch and develop controls based on risk as needed.
+
+Start with NIST CSF and move up to ISO/IEC 27001, and then NIST SP 800-53 as the organization matures.
+
+Develop controls in response to an initial risk assessment.
+
+   A. Starting with a standard control framework is the best approach, particularly if an appropriate, business-relevant framework is selected. In a proper risk management framework, risk assessment and risk treatment will result in adjustments to the framework (removing, improving, and adding controls) over time.
+
+   B, C, and D are incorrect. B is incorrect because, although technically this approach will work, too much time may elapse while waiting for the initial set of controls to be developed. In most organizations, over several years, the resulting control framework will not be that different from a standard, industry-relevant framework. C is incorrect because there is little to be gained by changing from one control framework to another. Because this approach is not risk based, there is a chance that some risks will result in never having appropriate controls developed to compensate for those risks. D is incorrect because this approach implies that only an initial risk assessment takes place. Instead, the accepted approach is one where risk assessments are performed periodically, resulting in periodic adjustments to the control framework in response to newly discovered risks.
+
+Name one distinct disadvantage of the ISO/IEC 27001 standard.
+
+The standard is costly (more than 100 U.S. dollars per copy).
+
+The standard is costly (a few thousand U.S. dollars per copy).
+
+The standard is available only for use in the United States.
+
+The standard is suitable only in large organizations.
+
+   A. Single copies of the ISO/IEC 27001 standard (as well as virtually all other ISO standards) cost more than U.S. $100 each. This prevents widespread adoption of the standard, as organizations are somewhat less likely to implement it, since the standard is expensive to download and difficult to understand. Further, students are unlikely to learn about the standard in school because of its cost. Contrast this with most other standards, which are free to download and use.
+
+   B, C, and D are incorrect. B is incorrect because the ISO/IEC 27001 standard does not cost thousands of dollars per copy. C is incorrect because there are no restrictions on where ISO/IEC 27001 (and virtually all other standards) can be used. D is incorrect because ISO/IEC 27001 is suitable for organizations of all sizes, from very large to very small and everything in between.
+
+Which of the following statements about ISO/IEC 27001 is correct?
+
+ISO/IEC 27001 consists primarily of a framework of security controls, followed by an appendix of security requirements for running a security management program.
+
+ISO/IEC 27001 consists primarily of a body of requirements for running a security management program, along with an appendix of security controls.
+
+ISO/IEC 27001 consists of a framework of information security controls.
+
+ISO/IEC 27001 consists of a framework of requirements for running a security management program.
+
+   B. ISO/IEC 27001’s main focus is the body of requirements (sometimes known as clauses) that describe all of the required activities and business records needed to run an information security management program. ISO/IEC 27001 also includes an Annex A, containing a list of information security controls. The controls here are described briefly; the ISO/IEC 27002 standard contains the same control framework, but with longer explanations, as well as implementation guidance for each control.
+
+   A, C, and D are incorrect. A is incorrect because the main focus of ISO/IEC 27001 is the requirements for running a security management program, not the security controls. C is incorrect because ISO/IEC 27001’s main focus is the requirements for running a security management program. D is incorrect because ISO/IEC 27001 does not contain only the requirements for running a security management program but also includes an appendix of security controls also contained in ISO/IEC 27002, where they are fully explained.
+
+What is the best explanation for the Implementation Tiers in the NIST Cybersecurity Framework?
+
+Implementation Tiers are levels of risk as determined by the organization.
+
+Implementation Tiers are stages of implementation of controls in the framework.
+
+Implementation Tiers are likened to maturity levels.
+
+Implementation Tiers are levels of risk as determined by an external auditor or regulator.
+
+   C. Although the CSF states that Implementation Tiers are not strictly maturity levels, they are very similar to maturity levels.
+
+   A, B, and D are incorrect. A and D are incorrect because Implementation Tiers are not risk levels. B is incorrect because Implementation Tiers are not related to the progress of implementation of controls.
+
+What are three factors that a risk manager may consider when developing an information security strategy?
+
+Threats, risks, and solutions
+
+Prevention, detection, and response
+
+Risk levels, staff qualifications, and security tooling
+
+Risk levels, operating costs, and compliance levels
+
+   D. When developing a long-term strategy for an information security program, the best three factors are risk levels, operating costs, and compliance levels. One of these factors may be more important than others in any given organization and for a variety of reasons. Generally, a long-term strategy is being developed to improve the state of one of these: reduction of risk, reduction of cost, or improvement of compliance.
+
+   A, B, and C are incorrect. A is incorrect because this is not the best answer. These are factors that may be considered in some circumstances. B is incorrect because these are information security program capabilities. C is incorrect because this answer does not include budget (operating costs), which is among the most important considerations, as budget enables the security manager to acquire staff and tooling to address risks.
+
+Jerome, a new CISO in a SaaS organization, has been asked to develop a long-term information security strategy. Which is the best first step for understanding the present state of the organization’s existing information security program?
+
+Perform a code review of the organization’s SaaS offerings.
+
+Study the contents of the risk register.
+
+Perform a baseline risk assessment.
+
+Commission a penetration test of internal and external networks.
+
+   C. The best first step for understanding the current state of an organization’s information security program is to perform a comprehensive baseline risk assessment. This is the best answer because a risk assessment takes the broadest assessment of the state of information risk, along with the state of any existing controls.
+
+   A, B, and D are incorrect. A is incorrect because a code review is a consideration of a very narrow portion of the overall state of the organization’s information security program. At best, a code review will assess the state of the organization’s secure-by-design practices, as well as the effectiveness of safe development training for its developers. Virtually every other aspect of the organization’s information security program is ignored. B is incorrect because, although the risk register may indeed contain valuable information about many risks in the organization, it is not a good indicator of the state of existing security tooling and processes in the organization. Indeed, the risk register itself may be woefully incomplete, it may be out of date, or it may be inaccurate. D is incorrect because a penetration test provides a narrow viewpoint of the overall state of the organization’s information security program. Although a penetration test may be a good assessment of an organization’s vulnerability management and system hardening practices, it completely overlooks the majority of activities needed in today’s information security programs.
+
+Jerome, a new CISO in a SaaS organization, has been asked to develop a long-term information security strategy. Why would Jerome choose to perform a threat assessment prior to producing the strategy?
+
+To ensure that the organization is aware of everything that could reasonably go wrong.
+
+To ensure that preventive controls are effective.
+
+To ensure that there are no unidentified vulnerabilities.
+
+To ensure that there are no unidentified risks.
+
+   A. The purpose of a threat assessment is to identify and study internal and external threat scenarios involving key assets, including threats from any and all types of threat actors that can have the most significant impact to the organization based on the most likely scenarios that could reasonably occur.
+
+   B, C, and D are incorrect. B is incorrect because a threat assessment takes a different, and broader, view than preventive controls. For instance, it’s possible that there are reasonable threat scenarios for which no controls exist to reduce those threats’ impact or probability of occurrence. C is incorrect because a threat assessment does not take a vulnerability-centric approach. A threat assessment starts with threat actors and various scenarios. Once a threat assessment has been completed, the vulnerabilities can be identified and remediated. D is incorrect because this is not the best answer. Although it is true that a threat assessment’s role is to identify risks, a threat assessment does not identify all risks.
+
+Jerome, a new CISO in a SaaS organization, has been asked to develop a long-term information security strategy. While examining the organization’s information security policy, and together with knowledge of the organization’s practices and controls, Jerome now realizes that the organization’s security policy is largely aspirational. What is the most important consequence of this on the organization?
+
+Confusion on the part of end users
+
+Appearance that the organization is not in control of its security practices
+
+Fines and sanctions from regulators
+
+Unmitigated risks and vulnerabilities
+
+   B. An organization with a largely aspirational security policy (that is, the organization is not in compliance with most of its security policies) will have the appearance of not being in control of its practices. Were the organization to enter into cybersecurity-related legal proceedings in such a state, the organization’s information security policy would be a liability and would give the appearance that the organization does not take information security seriously.
+
+   A, C, and D are incorrect. A is incorrect because it is not the best answer. Though end users may indeed be confused by the dichotomy between stated policies and actual practices, this is an important consequence, but not the most important one. C is incorrect because it is not the best answer. There may be cases where fines may be levied by regulators because of an organization not being in compliance with its policies, but this is not the most important consequence. D is incorrect because it is not the best answer. It may, however, be true that the aspirational policy may result in unmitigated risks, but this is not the most important consequence.
+
+Jerome, a new CISO in a SaaS organization, has been asked to develop a long-term information security strategy. While examining the organization’s information security policy, and together with knowledge of the organization’s practices and controls, Jerome now realizes that the organization’s security policy is largely aspirational. What is the best first step Jerome should take next?
+
+Create an entry in the organization’s risk register.
+
+Withdraw the security policy and write a new one that’s closer to reality.
+
+Perform a gap analysis and determine actions to take to close the policy gaps.
+
+Consult with the organization’s general counsel to develop a plan of action.
+
+   D. Consulting counsel is the best first step. A security policy that is largely aspirational (meaning the organization is not in compliance with the majority of its policies) introduces legal liability upon the organization, which is best handled by the organization’s general counsel. Although a CISO is in the best position to describe the nature and type of gaps in an organization’s security policy, the precise course of action is best decided by the general counsel.
+
+   A, B, and C are incorrect. A is incorrect because this is not the best answer. Although putting an entry in the risk register is appropriate, this answer does not indicate the best substantial step to take. B is incorrect because withdrawing the information security policy would leave the organization in a state of having no information security policy at all. If an organization were to change its policy, it should keep the existing policy in place, then fully develop a new policy, and then “switch” the policies. C is incorrect because this is not the best answer. This is, however, a step that may need to be taken so that the organization’s security policy may eventually be corrected.
+
+Jerome, a new CISO in a SaaS organization, has identified a document that describes acceptable encryption protocols. What type of document is this?
+
+Policy
+
+Standard
+
+Practice
+
+Guideline
+
+   B. A document that describes tools, products, or protocols is a standard.
+
+   A, C, and D are incorrect. A is incorrect because a policy would not typically specify tools or protocols. C is incorrect because a list of tools, products, or protocols is not a practice. D is incorrect because a guideline is a document that provides suggestions on the implementation of policies and standards.
+
+Jerome, a new CISO in a SaaS organization, has identified a document that describes suggested techniques for implementing encryption protocols. What type of document is this?
+
+Policy
+
+Standard
+
+Guideline
+
+Procedure
+
+   C. A document that provides suggestions on the implementation or use of a policy or standard is known as a guideline.
+
+   A, B, and D are incorrect. A is incorrect because a policy document does not specify tools, techniques, protocols, or implementation guidance for any of these. B is incorrect because a standard is typically used to specify protocols to use, not how to implement them. D is incorrect because a procedure is a document that describes the steps to take to accomplish a task.
+
+Which of the following is the most likely result of an organization that lacks a security architecture function?
+
+Inconsistent security-related procedures
+
+Inconsistent application of standards
+
+C.   Lower process maturity
+
+Added complication in vulnerability management tools
+
+   B. In an organization lacking a security architecture function, there is a greater likelihood that standards are going to be applied inconsistently. A security architecture function would likely include “reference architectures,” which are documents that define in detail how technology is implemented, configured, and even managed in an organization.
+
+   A, C, and D are incorrect. A is incorrect because, although inconsistent technology might also drive inconsistency in procedures, this is not the most direct result. C is incorrect because the lack of security architecture may or may not be a bellwether indicator of process maturity overall. D is incorrect because, although it may be true that lack of security architecture will result in complication in vulnerability management tools (because of inconsistencies in the environment), this is not the best answer.
+
+What is the main advantage of a security architecture function in a larger, distributed organization?
+
+Greater employee satisfaction
+
+Better results in vulnerability assessments
+
+Greater consistency in the use of tools and configurations
+
+Lower cost of operations
+
+   C. The main benefit of a security architecture is consistency in approach for all instances in the organization. For example, in a retail organization with dozens, hundreds, or thousands of locations, the use of a “reference architecture” as a part of a security architecture function would help ensure that equipment in all locations was configured identically. In another example, a reference architecture for access management would specify that SAML 2.0 would be used for single sign-on for all business applications. In the absence of a security architecture function, security tools and protocols might be inconsistently implemented and configured. Complexity is the enemy of security, it is said, and a large environment implemented inconsistently would be unnecessarily complex.
+
+   A, B, and D are incorrect. A is incorrect because employee satisfaction has little to do with security architecture, other than the consideration of engineers’ workloads in large environments that are inconsistent and unnecessarily complex. B is incorrect because this is not the best answer. However, in an environment with a security architecture function, it may be expected that vulnerability assessment results would be more consistent. D is incorrect because this is not the best answer. Still, in an environment that is highly consistent, there could be a somewhat lower cost incurred to operate it.
+
+A new CISO in a manufacturing company is gathering artifacts to understand the state of security in the organization. Which of the following would be the least valuable for determining risk posture?
+
+Security incident log
+
+Security awareness training records
+
+Penetration test results
+
+Report to the board of directors
+
+   D. A report to the board of directors is the only one of the answers that represents secondary information that may have been filtered, edited, and/or biased. The other answers (security incident log, security awareness training records, and penetration test results) are more valuable records that are less subject to bias.
+
+   A, B, and C are incorrect. A is incorrect because a security incident log would be of particular value to a new CISO, particularly if this record contains data generated by a security information and event management system (SIEM). B is incorrect because security awareness training records would indicate the degree of participation in security awareness training (itself an indicator of executive commitment to security awareness training and security overall), as well as competency test scores if they are a part of the record. C is incorrect because penetration test results are useful indicators of certain aspects of security in the organization. The number and type of vulnerabilities identified would be indicators of maturity in a secure systems development life cycle (whether the penetration test targeted software applications or infrastructure) as well as the organization’s vulnerability management process.
+
+Of what value is a business impact analysis (BIA) for a security leader in an organization?
+
+It provides a view of the criticality of IT systems in an organization.
+
+It provides a view of the criticality of business processes in an organization.
+
+It provides a view of the criticality of software applications in an organization.
+
+It provides no value to a security leader because it focuses on business continuity, not security.
+
+   B. The purpose of a business impact analysis (BIA) is to provide a concise view of the criticality of business processes in an organization. From there, dependencies on information systems (that is, software applications and supporting infrastructure) can be determined.
+
+   A, C, and D are incorrect. A is incorrect because the primary purpose of a BIA is to determine critical business processes. The criticality of IT systems can be derived from a BIA after further analysis. C is incorrect because the primary purpose of a BIA is to determine critical business processes. The criticality of software applications can be derived from a BIA after further analysis. D is incorrect because the BIA does provide value to a security leader by indicating which business processes are most important in an organization. This knowledge has several benefits: it helps prioritize IT disaster recovery planning efforts, and it helps security understand which information systems warrant the most protection.
+
+A security leader has been asked to justify the need to implement a new strategy for information security. How should the security leader respond?
+
+Develop a project plan showing the personnel, tasks, timelines, and dependencies.
+
+Develop a risk matrix that includes the potential consequences if the strategy is not implemented.
+
+Develop a SWOT diagram showing strengths, weaknesses, opportunities, and threats.
+
+Develop a business case that includes success criteria, requirements, costs, and action plan.
+
+   D. A business case is the best method for justifying a project or initiative to support the company’s strategy. A well-formed business case includes a problem statement, current and desired states, resources required, requirements, a plan, and success criteria.
+
+   A, B, and C are incorrect. A is incorrect because a project plan is not designed to justify the need for a strategy. Instead, a project plan is used to document how a plan will be executed and by whom. B is incorrect because a risk matrix is not designed to justify the need for a strategy. It may, however, be useful to understand the risks involved in current and desired future states. C is incorrect because a SWOT (strengths, weaknesses, opportunities, and threats) diagram is not used to justify a strategy.
