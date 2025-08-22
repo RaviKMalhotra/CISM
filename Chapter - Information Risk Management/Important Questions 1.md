@@ -1,4 +1,200 @@
 Questions
+A risk manager is planning a first-ever risk assessment in an organization. What is the best approach for ensuring success?
+
+Interview personnel separately so that their responses can be compared.
+
+Select a framework that matches the organization's control framework.
+
+Work with executive management to determine the correct scope.
+
+Do not inform executive management until the risk assessment has been completed.
+
+Answer:
+C. The best approach for success in an organization's risk management program, and during risk assessments, is to have support from executive management. Executives need to define the scope of the risk management program, whether by business unit, geography, or other means.
+
+A security manager has completed a vulnerability scan and has identified numerous vulnerabilities in production servers. What is the best course of action?
+
+Notify the production servers’ asset owners.
+
+Conduct a formal investigation.
+
+Place a single entry into the risk register.
+
+Put individual vulnerability entries into the risk register.
+
+Answer:
+A. Most organizations do not place individual vulnerabilities into a risk register. The risk register is primarily for strategic issues, not tactical issues such as individual vulnerabilities. However, if the vulnerability scan report was an indication of a broken process or broken technology, then that matter of brokenness might qualify as a valid risk register entry.
+
+The concept of security tasks in the context of a SaaS or IaaS environment is depicted in a:
+
+Discretionary control model
+
+Mandatory control model
+
+Monte Carlo risk model
+
+Shared responsibility model
+
+Answer:
+D. The shared responsibility model, sometimes known as a shared responsibility matrix, depicts the operational model for SaaS and IaaS providers where client organizations have some security responsibilities (such as end user access control) and service provider organizations have some security responsibilities (such as physical access control).
+
+The categories of risk treatment are:
+
+Risk avoidance, risk transfer, risk mitigation, and risk acceptance
+
+Risk avoidance, risk transfer, and risk mitigation
+
+Risk avoidance, risk reduction, risk transfer, risk mitigation, and risk acceptance
+
+Risk avoidance, risk treatment, risk mitigation, and risk acceptance
+
+Answer:
+A. The four categories of risk treatment are risk mitigation (where risks are reduced through a control or process change), risk transfer (where risks are transferred to an external party such as an insurance company or managed services provider), risk avoidance (where the risk-producing activity is discontinued), and risk acceptance (where management chooses to accept the risk).
+
+Which of the following recovery objectives is associated with the longest allowed period of service outage?
+
+Recovery tolerance objective (RTO)
+
+Recovery point objective (RPO)
+
+Recovery capacity objective (RCapO)
+
+Recovery time objective (RTO)
+
+Answer:
+D. Recovery time objective is the maximum period of time from the onset of an outage until the resumption of service.
+
+When would it make sense to spend $50,000 to protect an asset worth $10,000?
+
+If the protective measure reduced threat impact by more than 90 percent.
+
+It would never make sense to spend $50,000 to protect an asset worth $10,000.
+
+If the asset was required for realization of $500,000 monthly revenue.
+
+If the protective measure reduced threat probability by more than 90 percent.
+
+Answer:
+C. Ordinarily it would not make sense to spend $50,000 to protect an asset worth $10,000. But sometimes there are other considerations, such as revenue realization or reputation damage, that can be difficult to quantify.
+
+Which of the following statements is true about compliance risk?
+
+Compliance risk can be tolerated when fines cost less than controls.
+
+Compliance risk is just another risk that needs to be measured.
+
+Compliance risk can never be tolerated.
+
+Compliance risk can be tolerated when it is optional.
+
+Answer:
+B. In most cases, compliance risk is just another risk that needs to be understood. This includes the understanding of potential fines and other sanctions in relation to the costs required to reach a state of compliance. In some cases, however, being out of compliance can also result in reputation damage, as well as larger sanctions if the organization suffers from a security breach because of the noncompliant state.
+
+A security steering committee empowered to make risk treatment decisions has chosen to accept a specific risk. What is the best course of action?
+
+Refer the risk to a qualified external security audit firm.
+
+Perform additional risk analysis to identify residual risk.
+
+Reopen the risk item for reconsideration after one year.
+
+Mark the risk item as permanently closed.
+
+Answer:
+C. A risk register item that has been accepted should be shelved and considered after a period of time, perhaps one year. This is a better option than closing the item permanently; in a year's time, changes in business conditions, security threats, and other considerations may compel the organization to take different action.
+
+A security steering committee has voted to mitigate a specific risk. Some residual risk remains. What is the best course of action regarding the residual risk?
+
+Accept the residual risk and close the risk ledger item.
+
+Continue cycles of risk treatment until the residual risk reaches an acceptable level.
+
+Continue cycles of risk treatment until the residual risk reaches zero.
+
+Accept the residual risk and keep the risk ledger item open.
+
+Answer:
+B. After risk reduction through risk mitigation, the residual risk should be treated like any new risk: it should be reexamined, and a new risk treatment decision should be made. This should continue until the final remaining residual risk is accepted.
+
+A security manager has been directed by executive management to not document a specific risk in the risk register. This course of action is known as:
+
+Burying the risk
+
+Transferring the risk
+
+Accepting the risk
+
+Ignoring the risk
+
+Answer:
+D. The refusal of an organization to formally consider a risk is known as ignoring the risk. This is not a formal method of risk treatment because of the absence of deliberation and decision-making. It is not a wise business practice to keep some risk matters “off the books.”
+
+A security manager is performing a risk assessment on a business application. The security manager has determined that security patches have not been installed for more than a year. This finding is known as a:
+
+Probability
+
+Threat
+
+Vulnerability
+
+Risk
+
+Answer:
+C. The absence of security patches on a system is considered a vulnerability. A vulnerability is defined as a weakness in a system that could permit an attack to occur.
+
+A security manager is performing a risk assessment on a data center. The security manager has determined that it is possible for unauthorized personnel to enter the data center through the loading dock door and shut off utility power to the building. This finding is known as a:
+
+Probability
+
+Threat
+
+Vulnerability
+
+Risk
+
+Answer:
+B. Any undesired action that could harm an asset is known as a threat.
+
+A security manager has developed a scheme that prescribes required methods be used to protect information at rest, in motion, and in transit. This is known as a(n):
+
+Data classification policy
+
+Asset classification policy
+
+Data loss prevention plan
+
+Asset loss prevention plan
+
+Answer:
+A. A data classification policy is a statement that defines two or more classification levels for data, together with procedures and standards for the protection of data at each classification for various use cases such as storage in a database, storage on a laptop computer, transmissions via e-mail, and storage on backup media.
+
+A security manager is developing a strategy for making improvements to the organization's incident management process. The security manager has defined the desired future state. Before specific plans can be made to improve the process, the security manager should perform a:
+
+Training session
+
+Penetration test
+
+Vulnerability assessment
+
+Gap analysis
+
+Answer:
+D. When the desired end state of a process or system is determined, a gap analysis must be performed so that the current state of the process or system can also be known. Then, specific tasks can be performed to reach the desired end state of the process.
+
+What is usually the primary objective of risk management?
+
+Fewer and less severe security incidents
+
+No security incidents
+
+Improved compliance
+
+Fewer audit findings
+
+Answer:
+A. The most common objective of a risk management program is the reduction in the number and severity of security incidents.
+
+Questions
 An organization has a process whereby security-related hazards are identified, followed by analysis and decisions about what to do about these hazards. What kind of a business process is this?
 
 Vulnerability management
