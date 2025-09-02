@@ -230,179 +230,83 @@ Answer: B.
 New developments concerning information risk should be sent to the information security steering committee and executive management. This is a part of a typical risk management process that includes risk communication.
 
 A, C, and D are incorrect. A is incorrect because information risk matters are generally internal matters that are not shared with outside parties. Exceptions, of course, may include disclosures about risks and incidents as required by law, as well as through private legal obligations. C is incorrect because matters of information risk should not be shared to a wide audience such as all internal staff. D is incorrect because a board of directors does not necessarily need to know about all risks.
-An organization's internal audit department is assessing the organization's compliance with PCI-DSS. Internal audit finds that the organization is not compliant with a PCI-DSS control regarding workers’ annual acknowledgement of security policy. What kind of a risk has been identified?
 
+### Question # 1 - An organization's internal audit department is assessing the organization's compliance with PCI-DSS. Internal audit finds that the organization is not compliant with a PCI-DSS control regarding workers’ annual acknowledgement of security policy. What kind of a risk has been identified?
 Insider threat risk
-
 Disclosure risk
-
 Compliance risk
-
 Administrative risk
+Answer: C. 
 
-Answer:
-An organization's internal audit department is assessing the organization's compliance with PCI-DSS. Internal audit finds that the organization is not compliant with a PCI-DSS control regarding workers’ annual acknowledgement of security policy. What kind of a risk has been identified?
-
-Insider threat risk
-
-Disclosure risk
-
-Compliance risk
-
-Administrative risk
-
-
-C. This is primarily a matter of compliance risk. Organizations handling credit card data are required to comply with all controls in PCI-DSS, whether they represent actual risks or not.
+This is primarily a matter of compliance risk. Organizations handling credit card data are required to comply with all controls in PCI-DSS, whether they represent actual risks or not.
 
 A, B, and D are incorrect. These are not the appropriate terms for this type of risk. In addition to risks related to information theft, disclosure, and destruction, organizations need to understand matters of compliance risk, which may result in fines or sanctions and may become public matters in some circumstances.
 An internal audit team has completed a comprehensive internal audit and has determined that several controls are ineffective. What is the next step that should be performed?
 
+### Question # 1 - An internal audit team has completed a comprehensive internal audit and has determined that several controls are ineffective. What is the next step that should be performed?
 Correlate these results with an appropriately scoped penetration test.
-
 Develop compensating controls to reduce risk to acceptable levels.
-
 Perform a risk assessment.
-
 Develop a risk-based action plan to remediate ineffective controls.
+Answer: D. 
 
-Answer:
-An internal audit team has completed a comprehensive internal audit and has determined that several controls are ineffective. What is the next step that should be performed?
-
-Correlate these results with an appropriately scoped penetration test.
-
-Develop compensating controls to reduce risk to acceptable levels.
-
-Perform a risk assessment.
-
-Develop a risk-based action plan to remediate ineffective controls.
-
-
-D. Typically, organizations are compelled to remediate most or all findings identified by an internal audit department. Taking a risk-based approach is sensible because this serves to remediate findings by addressing the highest-risk findings first.
+Typically, organizations are compelled to remediate most or all findings identified by an internal audit department. Taking a risk-based approach is sensible because this serves to remediate findings by addressing the highest-risk findings first.
 
 A, B, and C are incorrect. A is incorrect because correlation with a penetration test would rarely be a prudent next step (unless the internal audit was solely focused on security configuration of target systems). B is incorrect because compensating controls are not the “go-to” remedy for curing control ineffectiveness; in some cases, compensating controls may be used, but this is not a typical approach. C is incorrect because a risk assessment does nothing to remediate control effectiveness findings.
-Which of the following statements is correct regarding applicable regulation and the selection of a security controls framework?
 
+### Question # 1 - Which of the following statements is correct regarding applicable regulation and the selection of a security controls framework?
 An appropriate framework will make it easier to map regulatory details to required activities.
-
 It makes no difference which controls framework is selected for regulatory compliance matters.
-
 Applicable laws and security control framework have little to do with each other.
-
 For regulated organizations, wise selection of control frameworks will result in lower cyber-insurance premiums.
+Answer: A. 
 
-Answer:
-Which of the following statements is correct regarding applicable regulation and the selection of a security controls framework?
+Applicable regulations may or may not be specific to required activities. In some cases, control frameworks are available that closely resemble required activities. Selection of a control framework that corresponds to an applicable law or regulation may help an organization to better align regulatory requirements with required activities.
 
-An appropriate framework will make it easier to map regulatory details to required activities.
+B, C, and D are incorrect. B is incorrect because there are cases where specific frameworks have coverage for specific regulations. For example, U.S. federal government agencies as well as service providers that provide information-related services to one or more of those agencies often follow NIST SP800-53, as the controls in NIST SP800-53 are required of these organizations. Similarly, 
+organizations that manage credit card payment information often adopt PCI-DSS as a control framework because they are specifically required to comply with all PCI-DSS requirements. (Note that PCI-DSS is not actually a law, but its position in the payments ecosystem gives it strong resemblance to regulation.) C is incorrect since this blanket statement is not true. D is incorrect because the question is not addressing cyber-risk insurance.
 
-It makes no difference which controls framework is selected for regulatory compliance matters.
-
-Applicable laws and security control framework have little to do with each other.
-
-For regulated organizations, wise selection of control frameworks will result in lower cyber-insurance premiums.
-
-
-A. Applicable regulations may or may not be specific to required activities. In some cases, control frameworks are available that closely resemble required activities. Selection of a control framework that corresponds to an applicable law or regulation may help an organization to better align regulatory requirements with required activities.
-
-B, C, and D are incorrect. B is incorrect because there are cases where specific frameworks have coverage for specific regulations. For example, U.S. federal government agencies as well as service providers that provide information-related services to one or more of those agencies often follow NIST SP800-53, as the controls in NIST SP800-53 are required of these organizations. Similarly, organizations that manage credit card payment information often adopt PCI-DSS as a control framework because they are specifically required to comply with all PCI-DSS requirements. (Note that PCI-DSS is not actually a law, but its position in the payments ecosystem gives it strong resemblance to regulation.) C is incorrect since this blanket statement is not true. D is incorrect because the question is not addressing cyber-risk insurance.
-In the use of FAIR (Factor Analysis of Information Risk), how does a risk manager determine the potential types of loss?
-
+### Question # 1 - In the use of FAIR (Factor Analysis of Information Risk), how does a risk manager determine the potential types of loss?
 A risk assessment is used to determine what types of loss may occur.
-
 The record of prior losses is used.
-
 Losses in similar companies are used.
-
 Loss types are defined by the FAIR method.
+Answer: D. 
 
-Answer:
-In the use of FAIR (Factor Analysis of Information Risk), how does a risk manager determine the potential types of loss?
-
-A risk assessment is used to determine what types of loss may occur.
-
-The record of prior losses is used.
-
-Losses in similar companies are used.
-
-Loss types are defined by the FAIR method.
-
-
-D. The FAIR (Factor Analysis of Information Risk) analysis method contains six types of loss, which are Productivity, Response, Replacement, Fines and Judgments, Competitive Advantage, and Reputation. According to the FAIR method, any cybersecurity incident would result in one or more of these losses.
+The FAIR (Factor Analysis of Information Risk) analysis method contains six types of loss, which are Productivity, Response, Replacement, Fines and Judgments, Competitive Advantage, and Reputation. According to the FAIR method, any cybersecurity incident would result in one or more of these losses.
 
 A, B, and C are incorrect because the FAIR methodology does not employ these means. Instead, FAIR uses six types of loss: Productivity, Response, Replacement, Fines and Judgments, Competitive Advantage, and Reputation. The FAIR method does not accommodate any other types of loss.
-Dawn, a CISO in a pharmaceutical organization, is partnering with the company's legal department on the topic of new applicable regulations. Which of the following approaches is most likely to be successful?
 
+### Question # 1 - Dawn, a CISO in a pharmaceutical organization, is partnering with the company's legal department on the topic of new applicable regulations. Which of the following approaches is most likely to be successful?
 Examine each new regulation for impact to the organization. Confirm applicability if impact is significant.
-
 Examine each new regulation for impact to the organization. Confirm applicability for regulations from other countries.
-
 Examine each new regulation for applicability. If applicable, analyze for impact to the organization.
-
 Subscribe to a service that informs the organization of new laws. Implement them in the following budget year.
+Answer: C. 
 
-Answer:
-Dawn, a CISO in a pharmaceutical organization, is partnering with the company's legal department on the topic of new applicable regulations. Which of the following approaches is most likely to be successful?
-
-Examine each new regulation for impact to the organization. Confirm applicability if impact is significant.
-
-Examine each new regulation for impact to the organization. Confirm applicability for regulations from other countries.
-
-Examine each new regulation for applicability. If applicable, analyze for impact to the organization.
-
-Subscribe to a service that informs the organization of new laws. Implement them in the following budget year.
-
-
-C. Because there are so many regulations of different kinds, it is first necessary to determine which ones are applicable to the organization. For regulations that are applicable, the next best course of action is to understand the impact of the regulation on business processes and costs and then develop an action plan for complying with the regulation.
+Because there are so many regulations of different kinds, it is first necessary to determine which ones are applicable to the organization. For regulations that are applicable, the next best course of action is to understand the impact of the regulation on business processes and costs and then develop an action plan for complying with the regulation.
 
 A, B, and D are incorrect. A and B are incorrect because these approaches will cause unnecessary burden on the organization. Regulations should first be vetted for applicability; if they are not applicable, no further work needs to be done. D is incorrect because this answer does not include the vital step of determining applicability. That said, a subscription service for new and emerging laws and regulations may be cost-effective for many organizations.
-What steps must be completed prior to the start of a risk assessment in an organization?
 
+### Question # 1 - What steps must be completed prior to the start of a risk assessment in an organization?
 Determine the qualifications of the firm that will perform the audit.
-
 Determine scope, purpose, and criteria for the audit.
-
 Determine the qualifications of the person(s) who will perform the audit.
-
 Determine scope, applicability, and purpose for the audit.
+Answer: B. 
 
-Answer:
-What steps must be completed prior to the start of a risk assessment in an organization?
-
-Determine the qualifications of the firm that will perform the audit.
-
-Determine scope, purpose, and criteria for the audit.
-
-Determine the qualifications of the person(s) who will perform the audit.
-
-Determine scope, applicability, and purpose for the audit.
-
-
-B. According to ISO/IEC 27005 and other risk management frameworks, it is first necessary to establish the context of an audit. This means making a determination of the scope of the audit—which parts of the organization are to be included. Also, it is necessary to determine the purpose of the risk assessment; for example, determining control coverage, control effectiveness, or business process effectiveness. Finally, the criteria for the audit need to be determined.
+According to ISO/IEC 27005 and other risk management frameworks, it is first necessary to establish the context of an audit. This means making a determination of the scope of the audit—which parts of the organization are to be included. Also, it is necessary to determine the purpose of the risk assessment; for example, determining control coverage, control effectiveness, or business process effectiveness. Finally, the criteria for the audit need to be determined.
 
 A, C, and D are incorrect. A and C are incorrect because any confirmation of qualifications would be determined prior to this point. D is incorrect because an audit that was not applicable should not be performed.
-A risk manager recently completed a risk assessment in an organization. Executive management asked the risk manager to remove one of the findings from the final report. This removal is an example of what?
 
+### Question # 1 - A risk manager recently completed a risk assessment in an organization. Executive management asked the risk manager to remove one of the findings from the final report. This removal is an example of what?
 Gerrymandering
-
 Internal politics
-
 Risk avoidance
-
 Risk acceptance
+Answer: D. 
 
-Answer:
-A risk manager recently completed a risk assessment in an organization. Executive management asked the risk manager to remove one of the findings from the final report. This removal is an example of what?
-
-Gerrymandering
-
-Internal politics
-
-Risk avoidance
-
-Risk acceptance
-
-
-D. Although this is a questionable approach, removal of a risk finding in a report is, implicitly, risk acceptance. It could, however, be even worse than that, and in some industries, this could be considered negligent and a failure of due care. A risk manager should normally object to such an action and may consider documenting the matter or even filing a formal protest.
+Although this is a questionable approach, removal of a risk finding in a report is, implicitly, risk acceptance. It could, however, be even worse than that, and in some industries, this could be considered negligent and a failure of due care. A risk manager should normally object to such an action and may consider documenting the matter or even filing a formal protest.
 
 A, B, and C are incorrect. A is incorrect because the term “gerrymandering” is related to the formation of electoral districts in government. B is incorrect because, although the situation may be an example of internal politics, this is not the best answer. C is incorrect because risk avoidance is defined as a discontinuation of the activity related to the risk.
 Which of the following is not a risk management methodology?
