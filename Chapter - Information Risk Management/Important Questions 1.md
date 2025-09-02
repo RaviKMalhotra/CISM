@@ -1,398 +1,233 @@
 Questions
-A risk manager is planning a first-ever risk assessment in an organization. What is the best approach for ensuring success?
 
-Interview personnel separately so that their responses can be compared.
+### Question # 1 - A risk manager is planning a first-ever risk assessment in an organization. What is the best approach for ensuring success?          
+A.   Interview personnel separately so that their responses can be compared.         
+B. Select a framework that matches the organization's control framework.         
+C. Work with executive management to determine the correct scope.                          
+D. Do not inform executive management until the risk assessment has been completed.          
+Answer: C.            
 
-Select a framework that matches the organization's control framework.
+The best approach for success in an organization's risk management program, and during risk assessments, is to have support from executive management. Executives need to define the scope of the risk management program, whether by business unit, geography, or other means.
 
-Work with executive management to determine the correct scope.
-
-Do not inform executive management until the risk assessment has been completed.
-
-Answer:
-C. The best approach for success in an organization's risk management program, and during risk assessments, is to have support from executive management. Executives need to define the scope of the risk management program, whether by business unit, geography, or other means.
-
-A security manager has completed a vulnerability scan and has identified numerous vulnerabilities in production servers. What is the best course of action?
-
+### Question # 1 - A security manager has completed a vulnerability scan and has identified numerous vulnerabilities in production servers. What is the best course of action?
 Notify the production servers’ asset owners.
-
 Conduct a formal investigation.
-
 Place a single entry into the risk register.
-
 Put individual vulnerability entries into the risk register.
+Answer: A. 
 
-Answer:
-A. Most organizations do not place individual vulnerabilities into a risk register. The risk register is primarily for strategic issues, not tactical issues such as individual vulnerabilities. However, if the vulnerability scan report was an indication of a broken process or broken technology, then that matter of brokenness might qualify as a valid risk register entry.
+Most organizations do not place individual vulnerabilities into a risk register. The risk register is primarily for strategic issues, not tactical issues such as individual vulnerabilities. However, if the vulnerability scan report was an indication of a broken process or broken technology, then that matter of brokenness might qualify as a valid risk register entry.
 
-The concept of security tasks in the context of a SaaS or IaaS environment is depicted in a:
-
+### Question # 1 - The concept of security tasks in the context of a SaaS or IaaS environment is depicted in a:
 Discretionary control model
-
 Mandatory control model
-
 Monte Carlo risk model
-
 Shared responsibility model
+Answer: D. 
 
-Answer:
-D. The shared responsibility model, sometimes known as a shared responsibility matrix, depicts the operational model for SaaS and IaaS providers where client organizations have some security responsibilities (such as end user access control) and service provider organizations have some security responsibilities (such as physical access control).
+The shared responsibility model, sometimes known as a shared responsibility matrix, depicts the operational model for SaaS and IaaS providers where client organizations have some security responsibilities (such as end user access control) and service provider organizations have some security responsibilities (such as physical access control).
 
-The categories of risk treatment are:
-
+### Question # 1 - The categories of risk treatment are:
 Risk avoidance, risk transfer, risk mitigation, and risk acceptance
-
 Risk avoidance, risk transfer, and risk mitigation
-
 Risk avoidance, risk reduction, risk transfer, risk mitigation, and risk acceptance
-
 Risk avoidance, risk treatment, risk mitigation, and risk acceptance
+Answer: A. 
 
-Answer:
-A. The four categories of risk treatment are risk mitigation (where risks are reduced through a control or process change), risk transfer (where risks are transferred to an external party such as an insurance company or managed services provider), risk avoidance (where the risk-producing activity is discontinued), and risk acceptance (where management chooses to accept the risk).
+The four categories of risk treatment are risk mitigation (where risks are reduced through a control or process change), risk transfer (where risks are transferred to an external party such as an insurance company or managed services provider), risk avoidance (where the risk-producing activity is discontinued), and risk acceptance (where management chooses to accept the risk).
 
-Which of the following recovery objectives is associated with the longest allowed period of service outage?
-
+### Question # 1 - Which of the following recovery objectives is associated with the longest allowed period of service outage?
 Recovery tolerance objective (RTO)
-
 Recovery point objective (RPO)
-
 Recovery capacity objective (RCapO)
-
 Recovery time objective (RTO)
+Answer: D. 
 
-Answer:
-D. Recovery time objective is the maximum period of time from the onset of an outage until the resumption of service.
+Recovery time objective is the maximum period of time from the onset of an outage until the resumption of service.
 
-When would it make sense to spend $50,000 to protect an asset worth $10,000?
-
+### Question # 1 - When would it make sense to spend $50,000 to protect an asset worth $10,000?
 If the protective measure reduced threat impact by more than 90 percent.
-
 It would never make sense to spend $50,000 to protect an asset worth $10,000.
-
 If the asset was required for realization of $500,000 monthly revenue.
-
 If the protective measure reduced threat probability by more than 90 percent.
+Answer: C. 
 
-Answer:
-C. Ordinarily it would not make sense to spend $50,000 to protect an asset worth $10,000. But sometimes there are other considerations, such as revenue realization or reputation damage, that can be difficult to quantify.
+Ordinarily it would not make sense to spend $50,000 to protect an asset worth $10,000. But sometimes there are other considerations, such as revenue realization or reputation damage, that can be difficult to quantify.
 
-Which of the following statements is true about compliance risk?
-
+### Question # 1 - Which of the following statements is true about compliance risk?
 Compliance risk can be tolerated when fines cost less than controls.
-
 Compliance risk is just another risk that needs to be measured.
-
 Compliance risk can never be tolerated.
-
 Compliance risk can be tolerated when it is optional.
+Answer: B. 
 
-Answer:
-B. In most cases, compliance risk is just another risk that needs to be understood. This includes the understanding of potential fines and other sanctions in relation to the costs required to reach a state of compliance. In some cases, however, being out of compliance can also result in reputation damage, as well as larger sanctions if the organization suffers from a security breach because of the noncompliant state.
+In most cases, compliance risk is just another risk that needs to be understood. This includes the understanding of potential fines and other sanctions in relation to the costs required to reach a state of compliance. In some cases, however, being out of compliance can also result in reputation damage, as well as larger sanctions if the organization suffers from a security breach because of the noncompliant state.
 
-A security steering committee empowered to make risk treatment decisions has chosen to accept a specific risk. What is the best course of action?
-
+### Question # 1 - A security steering committee empowered to make risk treatment decisions has chosen to accept a specific risk. What is the best course of action?
 Refer the risk to a qualified external security audit firm.
-
 Perform additional risk analysis to identify residual risk.
-
 Reopen the risk item for reconsideration after one year.
-
 Mark the risk item as permanently closed.
+Answer: C. 
 
-Answer:
-C. A risk register item that has been accepted should be shelved and considered after a period of time, perhaps one year. This is a better option than closing the item permanently; in a year's time, changes in business conditions, security threats, and other considerations may compel the organization to take different action.
+A risk register item that has been accepted should be shelved and considered after a period of time, perhaps one year. This is a better option than closing the item permanently; in a year's time, changes in business conditions, security threats, and other considerations may compel the organization to take different action.
 
-A security steering committee has voted to mitigate a specific risk. Some residual risk remains. What is the best course of action regarding the residual risk?
-
+### Question # 1 - A security steering committee has voted to mitigate a specific risk. Some residual risk remains. What is the best course of action regarding the residual risk?
 Accept the residual risk and close the risk ledger item.
-
 Continue cycles of risk treatment until the residual risk reaches an acceptable level.
-
 Continue cycles of risk treatment until the residual risk reaches zero.
-
 Accept the residual risk and keep the risk ledger item open.
+Answer: B. 
 
-Answer:
-B. After risk reduction through risk mitigation, the residual risk should be treated like any new risk: it should be reexamined, and a new risk treatment decision should be made. This should continue until the final remaining residual risk is accepted.
+After risk reduction through risk mitigation, the residual risk should be treated like any new risk: it should be reexamined, and a new risk treatment decision should be made. This should continue until the final remaining residual risk is accepted.
 
-A security manager has been directed by executive management to not document a specific risk in the risk register. This course of action is known as:
-
+### Question # 1 - A security manager has been directed by executive management to not document a specific risk in the risk register. This course of action is known as:
 Burying the risk
-
 Transferring the risk
-
 Accepting the risk
-
 Ignoring the risk
+Answer: D. 
 
-Answer:
-D. The refusal of an organization to formally consider a risk is known as ignoring the risk. This is not a formal method of risk treatment because of the absence of deliberation and decision-making. It is not a wise business practice to keep some risk matters “off the books.”
+The refusal of an organization to formally consider a risk is known as ignoring the risk. This is not a formal method of risk treatment because of the absence of deliberation and decision-making. It is not a wise business practice to keep some risk matters “off the books.”
 
-A security manager is performing a risk assessment on a business application. The security manager has determined that security patches have not been installed for more than a year. This finding is known as a:
-
+### Question # 1 - A security manager is performing a risk assessment on a business application. The security manager has determined that security patches have not been installed for more than a year. This finding is known as a:
 Probability
-
 Threat
-
 Vulnerability
-
 Risk
+Answer: C. 
 
-Answer:
-C. The absence of security patches on a system is considered a vulnerability. A vulnerability is defined as a weakness in a system that could permit an attack to occur.
+The absence of security patches on a system is considered a vulnerability. A vulnerability is defined as a weakness in a system that could permit an attack to occur.
 
-A security manager is performing a risk assessment on a data center. The security manager has determined that it is possible for unauthorized personnel to enter the data center through the loading dock door and shut off utility power to the building. This finding is known as a:
-
+### Question # 1 - A security manager is performing a risk assessment on a data center. The security manager has determined that it is possible for unauthorized personnel to enter the data center through the loading dock door and shut off utility power to the building. This finding is known as a:
 Probability
-
 Threat
-
 Vulnerability
-
 Risk
+Answer: B. 
 
-Answer:
-B. Any undesired action that could harm an asset is known as a threat.
+Any undesired action that could harm an asset is known as a threat.
 
-A security manager has developed a scheme that prescribes required methods be used to protect information at rest, in motion, and in transit. This is known as a(n):
-
+### Question # 1 - A security manager has developed a scheme that prescribes required methods be used to protect information at rest, in motion, and in transit. This is known as a(n):
 Data classification policy
-
 Asset classification policy
-
 Data loss prevention plan
-
 Asset loss prevention plan
+Answer: A. 
 
-Answer:
-A. A data classification policy is a statement that defines two or more classification levels for data, together with procedures and standards for the protection of data at each classification for various use cases such as storage in a database, storage on a laptop computer, transmissions via e-mail, and storage on backup media.
+A data classification policy is a statement that defines two or more classification levels for data, together with procedures and standards for the protection of data at each classification for various use cases such as storage in a database, storage on a laptop computer, transmissions via e-mail, and storage on backup media.
 
-A security manager is developing a strategy for making improvements to the organization's incident management process. The security manager has defined the desired future state. Before specific plans can be made to improve the process, the security manager should perform a:
-
+### Question # 1 - A security manager is developing a strategy for making improvements to the organization's incident management process. The security manager has defined the desired future state. Before specific plans can be made to improve the process, the security manager should perform a:
 Training session
-
 Penetration test
-
 Vulnerability assessment
-
 Gap analysis
+Answer: D. 
 
-Answer:
-D. When the desired end state of a process or system is determined, a gap analysis must be performed so that the current state of the process or system can also be known. Then, specific tasks can be performed to reach the desired end state of the process.
+When the desired end state of a process or system is determined, a gap analysis must be performed so that the current state of the process or system can also be known. Then, specific tasks can be performed to reach the desired end state of the process.
 
-What is usually the primary objective of risk management?
-
+### Question # 1 - What is usually the primary objective of risk management?
 Fewer and less severe security incidents
-
 No security incidents
-
 Improved compliance
-
 Fewer audit findings
+Answer: A. 
 
-Answer:
-A. The most common objective of a risk management program is the reduction in the number and severity of security incidents.
+The most common objective of a risk management program is the reduction in the number and severity of security incidents.
 
 Questions
-An organization has a process whereby security-related hazards are identified, followed by analysis and decisions about what to do about these hazards. What kind of a business process is this?
-
+### Question # 1 - An organization has a process whereby security-related hazards are identified, followed by analysis and decisions about what to do about these hazards. What kind of a business process is this?
 Vulnerability management
-
 Risk treatment
-
 Risk management
-
 Risk assessment
-
 Answer:
+
 An organization has a process whereby security-related hazards are identified, followed by analysis and decisions about what to do about these hazards. What kind of a business process is this?
-
 Vulnerability management
-
 Risk treatment
-
 Risk management
-
 Risk assessment
+Answer: C. 
 
-
-C. The risk management process consists of risk assessments, analysis about risks that are identified by risk assessment, followed by discussions, and finally decisions about what to do about these risks.
+The risk management process consists of risk assessments, analysis about risks that are identified by risk assessment, followed by discussions, and finally decisions about what to do about these risks.
 
 A, B, and D are incorrect. A is incorrect because the steps in the question do not describe a vulnerability management process. B is incorrect because the steps in the question do not describe a risk treatment process. However, risk treatment is a part of the risk management process. D is incorrect because the steps in the question do not describe a risk management process. Risk assessment is a part of the risk management process.
-What is the purpose of a cyber-risk management program in an organization?
 
+### Question # 1 - What is the purpose of a cyber-risk management program in an organization?
 Consume information from a centralized risk register
-
 Identify and make decisions about information security risks
-
 Plan for future cybersecurity projects and initiatives
-
 Develop mitigating controls
+Answer: B. 
 
-Answer:
-What is the purpose of a cyber-risk management program in an organization?
-
-Consume information from a centralized risk register
-
-Identify and make decisions about information security risks
-
-Plan for future cybersecurity projects and initiatives
-
-Develop mitigating controls
-
-
-B. The purpose of a risk management program is to use various means to identify risks in an organization and then study and make decisions about those risks through a process known as risk treatment.
+The purpose of a risk management program is to use various means to identify risks in an organization and then study and make decisions about those risks through a process known as risk treatment.
 
 A, C, and D are incorrect. A is incorrect because the purpose of a risk management program is not to consume information from the risk register, but instead to populate it and manage information there. C is incorrect because the core purpose of risk management is not long-term planning, but the management of risk. An output of the risk treatment process is a series of decisions that may result in one or more initiatives and projects to take place in the future. D is incorrect because this is too narrow a definition of risk management; while mitigating controls will sometimes be developed as a result of risk management, there are other outcomes as well.
-All of the following activities are typical inputs into a risk management process except which one?
 
+### Question # 1 - All of the following activities are typical inputs into a risk management process except which one?
 Code reviews
-
 Risk assessments
-
 Threat assessments
-
 Internal audits
+Answer: A. 
 
-Answer:
-All of the following activities are typical inputs into a risk management process except which one?
-
-Code reviews
-
-Risk assessments
-
-Threat assessments
-
-Internal audits
-
-
-A. A code review is not a typical input to a risk management process, primarily because a code review represents a narrow, tactical examination of a program's source code. Output from a code review would likely be fed into a software defect tracking process or a vulnerability management process.
+A code review is not a typical input to a risk management process, primarily because a code review represents a narrow, tactical examination of a program's source code. Output from a code review would likely be fed into a software defect tracking process or a vulnerability management process.
 
 B, C, and D are incorrect. They are incorrect because risk assessments, threat assessments, and internal audits would typically result in issues being processed by a risk management process. The distinction is this: A standard risk management process is designed to tackle cyber risks that are systemic in an organization. Examples of such risks include weaknesses in business processes and overarching design problems in complex information systems. Issues such as missing patches, security configuration problems, and software vulnerabilities are instead handled by tactical vulnerability management and software defect management processes.
-What should be the primary objective of a risk management strategy?
 
+### Question # 1 - What should be the primary objective of a risk management strategy?
 Determine the organization's risk appetite.
-
 Identify credible risks and transfer them to an external party.
-
 Identify credible risks and reduce them to an acceptable level.
-
 Eliminate credible risks.
+Answer: C. 
 
-Answer:
-What should be the primary objective of a risk management strategy?
-
-Determine the organization's risk appetite.
-
-Identify credible risks and transfer them to an external party.
-
-Identify credible risks and reduce them to an acceptable level.
-
-Eliminate credible risks.
-
-
-C. The primary objective of a risk management strategy is the identification of risks, followed by the reduction of those risks to levels acceptable to executive management.
+The primary objective of a risk management strategy is the identification of risks, followed by the reduction of those risks to levels acceptable to executive management.
 
 A, B, and D are incorrect. A is incorrect because the determination of risk appetite, while important—and essential to the proper functioning of a risk management program—is not the main purpose of a risk management strategy. B is incorrect because transferring risks to external parties is but one of several possible outcomes for risks that are identified. D is incorrect because risks cannot be eliminated, only reduced to acceptable levels.
-What are possible outcomes of a risk that has been identified and analyzed in a risk management process?
 
+### Question # 1 - What are possible outcomes of a risk that has been identified and analyzed in a risk management process?
 Acceptance, avoidance, mitigation, transfer, residual
-
 Acceptance, elimination, reduction, transfer
-
 Acceptance, avoidance, elimination, mitigation, transfer
-
 Acceptance, avoidance, mitigation, transfer
+Answer: D. 
 
-Answer:
-What are possible outcomes of a risk that has been identified and analyzed in a risk management process?
-
-Acceptance, avoidance, mitigation, transfer, residual
-
-Acceptance, elimination, reduction, transfer
-
-Acceptance, avoidance, elimination, mitigation, transfer
-
-Acceptance, avoidance, mitigation, transfer
-
-
-D. The four possible outcomes of a risk in a risk management process are acceptance, avoidance, mitigation, and transfer. These are known as risk treatment options.
+The four possible outcomes of a risk in a risk management process are acceptance, avoidance, mitigation, and transfer. These are known as risk treatment options.
 
 A, B, and C are incorrect because these are not the outcomes of risk treatment in a risk management process. Elimination is not a valid risk treatment option because risks cannot be eliminated altogether. Residual is not a valid risk treatment option; instead, residual risk is defined as the “leftover” risk after the original risk has been reduced through mitigation or transfer.
-Dawn, a new CISO in a pharmaceutical company, is reviewing an existing risk management process. The process states that the CISO alone makes all risk treatment decisions. What should Dawn conclude from this observation?
 
+### Question # 1 - Dawn, a new CISO in a pharmaceutical company, is reviewing an existing risk management process. The process states that the CISO alone makes all risk treatment decisions. What should Dawn conclude from this observation?
 The process should be changed so that other business leaders may collaborate on risk treatment decisions.
-
 The process is appropriate, as it is the CISO's responsibility to make risk treatment decisions.
-
 The process should be changed so that the internal audit department approves risk treatment decisions.
-
 The process should be changed so that external regulators approve risk treatment decisions.
+Answer: A. 
 
-Answer:
-Dawn, a new CISO in a pharmaceutical company, is reviewing an existing risk management process. The process states that the CISO alone makes all risk treatment decisions. What should Dawn conclude from this observation?
-
-The process should be changed so that other business leaders may collaborate on risk treatment decisions.
-
-The process is appropriate, as it is the CISO's responsibility to make risk treatment decisions.
-
-The process should be changed so that the internal audit department approves risk treatment decisions.
-
-The process should be changed so that external regulators approve risk treatment decisions.
-
-
-A. Risk treatment decisions are business decisions that should be made by business leaders in collaboration with the CISO. The CISO should not be making unilateral decisions on behalf of the business.
+Risk treatment decisions are business decisions that should be made by business leaders in collaboration with the CISO. The CISO should not be making unilateral decisions on behalf of the business.
 
 B, C, and D are incorrect. B is incorrect because the CISO should not be making unilateral decisions about risk on behalf of the business. Business leaders should at least participate in, and agree with, these decisions. C is incorrect because it is not appropriate for an internal audit department to make risk treatment decisions (except, possibly, for risk treatment decisions that are directly related to the internal audit function). D is incorrect because it is not appropriate for outside regulators to make an organization's risk treatment decisions; at most, regulators may be informed of such decisions.
-Marie, a CISO at a manufacturing company, is building a new cyber-risk governance process. For this process to be successful, what is the best first step for Marie to take?
 
+### Question # 1 - Marie, a CISO at a manufacturing company, is building a new cyber-risk governance process. For this process to be successful, what is the best first step for Marie to take?
 Develop a RACI matrix that defines executive roles and responsibilities.
-
 Charter a security steering committee consisting of IT and cybersecurity leaders.
-
 Develop a risk management process similar to what is found in ISO/IEC 27001.
-
 Charter a security steering committee consisting of IT, security, and business leaders.
+Answer: D. 
 
-Answer:
-Marie, a CISO at a manufacturing company, is building a new cyber-risk governance process. For this process to be successful, what is the best first step for Marie to take?
-
-Develop a RACI matrix that defines executive roles and responsibilities.
-
-Charter a security steering committee consisting of IT and cybersecurity leaders.
-
-Develop a risk management process similar to what is found in ISO/IEC 27001.
-
-Charter a security steering committee consisting of IT, security, and business leaders.
-
-
-D. The best course of action is the formation of a chartered information security steering committee that consists of IT and security leaders, as well as business leaders. For security governance to succeed, business leaders need to be involved and participate in discussions and decisions.
+The best course of action is the formation of a chartered information security steering committee that consists of IT and security leaders, as well as business leaders. For security governance to succeed, business leaders need to be involved and participate in discussions and decisions.
 
 A, B, and C are incorrect. A is incorrect because a RACI matrix, while important, is but a small part of a chartered information security steering committee. B is incorrect because a security steering committee must include business leaders. C is incorrect because this question is about security governance, which is more than just a risk management process.
-To what audience should communication about new information risks be sent?
 
+### Question # 1 - To what audience should communication about new information risks be sent?
 Customers
-
 Security steering committee and executive management
-
 All personnel
-
 Board of directors
+Answer: B. 
 
-Answer:
-To what audience should communication about new information risks be sent?
-
-Customers
-
-Security steering committee and executive management
-
-All personnel
-
-Board of directors
-
-
-B. New developments concerning information risk should be sent to the information security steering committee and executive management. This is a part of a typical risk management process that includes risk communication.
+New developments concerning information risk should be sent to the information security steering committee and executive management. This is a part of a typical risk management process that includes risk communication.
 
 A, C, and D are incorrect. A is incorrect because information risk matters are generally internal matters that are not shared with outside parties. Exceptions, of course, may include disclosures about risks and incidents as required by law, as well as through private legal obligations. C is incorrect because matters of information risk should not be shared to a wide audience such as all internal staff. D is incorrect because a board of directors does not necessarily need to know about all risks.
 An organization's internal audit department is assessing the organization's compliance with PCI-DSS. Internal audit finds that the organization is not compliant with a PCI-DSS control regarding workers’ annual acknowledgement of security policy. What kind of a risk has been identified?
