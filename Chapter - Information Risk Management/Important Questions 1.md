@@ -90,7 +90,7 @@ Answer: D.
 
 The refusal of an organization to formally consider a risk is known as ignoring the risk. This is not a formal method of risk treatment because of the absence of deliberation and decision-making. It is not a wise business practice to keep some risk matters “off the books.”
 
-### Question # 1 - A security manager is performing a risk assessment on a business application. The security manager has determined that security patches have not been installed for more than a year. This finding is known as a:
+### Question # 2 - A security manager is performing a risk assessment on a business application. The security manager has determined that security patches have not been installed for more than a year. This finding is known as a:
 Probability
 Threat
 Vulnerability
@@ -99,7 +99,7 @@ Answer: C.
 
 The absence of security patches on a system is considered a vulnerability. A vulnerability is defined as a weakness in a system that could permit an attack to occur.
 
-### Question # 1 - A security manager is performing a risk assessment on a data center. The security manager has determined that it is possible for unauthorized personnel to enter the data center through the loading dock door and shut off utility power to the building. This finding is known as a:
+### Question # 3 - A security manager is performing a risk assessment on a data center. The security manager has determined that it is possible for unauthorized personnel to enter the data center through the loading dock door and shut off utility power to the building. This finding is known as a:
 Probability
 Threat
 Vulnerability
@@ -108,7 +108,7 @@ Answer: B.
 
 Any undesired action that could harm an asset is known as a threat.
 
-### Question # 1 - A security manager has developed a scheme that prescribes required methods be used to protect information at rest, in motion, and in transit. This is known as a(n):
+### Question # 4 - A security manager has developed a scheme that prescribes required methods be used to protect information at rest, in motion, and in transit. This is known as a(n):
 Data classification policy
 Asset classification policy
 Data loss prevention plan
@@ -117,7 +117,7 @@ Answer: A.
 
 A data classification policy is a statement that defines two or more classification levels for data, together with procedures and standards for the protection of data at each classification for various use cases such as storage in a database, storage on a laptop computer, transmissions via e-mail, and storage on backup media.
 
-### Question # 1 - A security manager is developing a strategy for making improvements to the organization's incident management process. The security manager has defined the desired future state. Before specific plans can be made to improve the process, the security manager should perform a:
+### Question # 5 - A security manager is developing a strategy for making improvements to the organization's incident management process. The security manager has defined the desired future state. Before specific plans can be made to improve the process, the security manager should perform a:
 Training session
 Penetration test
 Vulnerability assessment
@@ -126,7 +126,7 @@ Answer: D.
 
 When the desired end state of a process or system is determined, a gap analysis must be performed so that the current state of the process or system can also be known. Then, specific tasks can be performed to reach the desired end state of the process.
 
-### Question # 1 - What is usually the primary objective of risk management?
+### Question # 6 - What is usually the primary objective of risk management?
 Fewer and less severe security incidents
 No security incidents
 Improved compliance
@@ -136,7 +136,7 @@ Answer: A.
 The most common objective of a risk management program is the reduction in the number and severity of security incidents.
 
 Questions
-### Question # 1 - An organization has a process whereby security-related hazards are identified, followed by analysis and decisions about what to do about these hazards. What kind of a business process is this?
+### Question # 7 - An organization has a process whereby security-related hazards are identified, followed by analysis and decisions about what to do about these hazards. What kind of a business process is this?
 Vulnerability management
 Risk treatment
 Risk management
@@ -154,7 +154,7 @@ The risk management process consists of risk assessments, analysis about risks t
 
 A, B, and D are incorrect. A is incorrect because the steps in the question do not describe a vulnerability management process. B is incorrect because the steps in the question do not describe a risk treatment process. However, risk treatment is a part of the risk management process. D is incorrect because the steps in the question do not describe a risk management process. Risk assessment is a part of the risk management process.
 
-### Question # 1 - What is the purpose of a cyber-risk management program in an organization?
+### Question # 8 - What is the purpose of a cyber-risk management program in an organization?
 Consume information from a centralized risk register
 Identify and make decisions about information security risks
 Plan for future cybersecurity projects and initiatives
@@ -165,7 +165,7 @@ The purpose of a risk management program is to use various means to identify ris
 
 A, C, and D are incorrect. A is incorrect because the purpose of a risk management program is not to consume information from the risk register, but instead to populate it and manage information there. C is incorrect because the core purpose of risk management is not long-term planning, but the management of risk. An output of the risk treatment process is a series of decisions that may result in one or more initiatives and projects to take place in the future. D is incorrect because this is too narrow a definition of risk management; while mitigating controls will sometimes be developed as a result of risk management, there are other outcomes as well.
 
-### Question # 1 - All of the following activities are typical inputs into a risk management process except which one?
+### Question # 9 - All of the following activities are typical inputs into a risk management process except which one?
 Code reviews
 Risk assessments
 Threat assessments
@@ -176,7 +176,7 @@ A code review is not a typical input to a risk management process, primarily bec
 
 B, C, and D are incorrect. They are incorrect because risk assessments, threat assessments, and internal audits would typically result in issues being processed by a risk management process. The distinction is this: A standard risk management process is designed to tackle cyber risks that are systemic in an organization. Examples of such risks include weaknesses in business processes and overarching design problems in complex information systems. Issues such as missing patches, security configuration problems, and software vulnerabilities are instead handled by tactical vulnerability management and software defect management processes.
 
-### Question # 1 - What should be the primary objective of a risk management strategy?
+### Question # 10 - What should be the primary objective of a risk management strategy?
 Determine the organization's risk appetite.
 Identify credible risks and transfer them to an external party.
 Identify credible risks and reduce them to an acceptable level.
@@ -187,7 +187,7 @@ The primary objective of a risk management strategy is the identification of ris
 
 A, B, and D are incorrect. A is incorrect because the determination of risk appetite, while important—and essential to the proper functioning of a risk management program—is not the main purpose of a risk management strategy. B is incorrect because transferring risks to external parties is but one of several possible outcomes for risks that are identified. D is incorrect because risks cannot be eliminated, only reduced to acceptable levels.
 
-### Question # 1 - What are possible outcomes of a risk that has been identified and analyzed in a risk management process?
+### Question # 11 - What are possible outcomes of a risk that has been identified and analyzed in a risk management process?
 Acceptance, avoidance, mitigation, transfer, residual
 Acceptance, elimination, reduction, transfer
 Acceptance, avoidance, elimination, mitigation, transfer
@@ -198,7 +198,7 @@ The four possible outcomes of a risk in a risk management process are acceptance
 
 A, B, and C are incorrect because these are not the outcomes of risk treatment in a risk management process. Elimination is not a valid risk treatment option because risks cannot be eliminated altogether. Residual is not a valid risk treatment option; instead, residual risk is defined as the “leftover” risk after the original risk has been reduced through mitigation or transfer.
 
-### Question # 1 - Dawn, a new CISO in a pharmaceutical company, is reviewing an existing risk management process. The process states that the CISO alone makes all risk treatment decisions. What should Dawn conclude from this observation?
+### Question # 12 - Dawn, a new CISO in a pharmaceutical company, is reviewing an existing risk management process. The process states that the CISO alone makes all risk treatment decisions. What should Dawn conclude from this observation?
 The process should be changed so that other business leaders may collaborate on risk treatment decisions.
 The process is appropriate, as it is the CISO's responsibility to make risk treatment decisions.
 The process should be changed so that the internal audit department approves risk treatment decisions.
@@ -209,7 +209,7 @@ Risk treatment decisions are business decisions that should be made by business 
 
 B, C, and D are incorrect. B is incorrect because the CISO should not be making unilateral decisions about risk on behalf of the business. Business leaders should at least participate in, and agree with, these decisions. C is incorrect because it is not appropriate for an internal audit department to make risk treatment decisions (except, possibly, for risk treatment decisions that are directly related to the internal audit function). D is incorrect because it is not appropriate for outside regulators to make an organization's risk treatment decisions; at most, regulators may be informed of such decisions.
 
-### Question # 1 - Marie, a CISO at a manufacturing company, is building a new cyber-risk governance process. For this process to be successful, what is the best first step for Marie to take?
+### Question # 13 - Marie, a CISO at a manufacturing company, is building a new cyber-risk governance process. For this process to be successful, what is the best first step for Marie to take?
 Develop a RACI matrix that defines executive roles and responsibilities.
 Charter a security steering committee consisting of IT and cybersecurity leaders.
 Develop a risk management process similar to what is found in ISO/IEC 27001.
@@ -220,7 +220,7 @@ The best course of action is the formation of a chartered information security s
 
 A, B, and C are incorrect. A is incorrect because a RACI matrix, while important, is but a small part of a chartered information security steering committee. B is incorrect because a security steering committee must include business leaders. C is incorrect because this question is about security governance, which is more than just a risk management process.
 
-### Question # 1 - To what audience should communication about new information risks be sent?
+### Question # 14 - To what audience should communication about new information risks be sent?
 Customers
 Security steering committee and executive management
 All personnel
@@ -231,7 +231,7 @@ New developments concerning information risk should be sent to the information s
 
 A, C, and D are incorrect. A is incorrect because information risk matters are generally internal matters that are not shared with outside parties. Exceptions, of course, may include disclosures about risks and incidents as required by law, as well as through private legal obligations. C is incorrect because matters of information risk should not be shared to a wide audience such as all internal staff. D is incorrect because a board of directors does not necessarily need to know about all risks.
 
-### Question # 1 - An organization's internal audit department is assessing the organization's compliance with PCI-DSS. Internal audit finds that the organization is not compliant with a PCI-DSS control regarding workers’ annual acknowledgement of security policy. What kind of a risk has been identified?
+### Question # 15 - An organization's internal audit department is assessing the organization's compliance with PCI-DSS. Internal audit finds that the organization is not compliant with a PCI-DSS control regarding workers’ annual acknowledgement of security policy. What kind of a risk has been identified?
 Insider threat risk
 Disclosure risk
 Compliance risk
@@ -243,7 +243,7 @@ This is primarily a matter of compliance risk. Organizations handling credit car
 A, B, and D are incorrect. These are not the appropriate terms for this type of risk. In addition to risks related to information theft, disclosure, and destruction, organizations need to understand matters of compliance risk, which may result in fines or sanctions and may become public matters in some circumstances.
 An internal audit team has completed a comprehensive internal audit and has determined that several controls are ineffective. What is the next step that should be performed?
 
-### Question # 1 - An internal audit team has completed a comprehensive internal audit and has determined that several controls are ineffective. What is the next step that should be performed?
+### Question # 16 - An internal audit team has completed a comprehensive internal audit and has determined that several controls are ineffective. What is the next step that should be performed?
 Correlate these results with an appropriately scoped penetration test.
 Develop compensating controls to reduce risk to acceptable levels.
 Perform a risk assessment.
@@ -254,7 +254,7 @@ Typically, organizations are compelled to remediate most or all findings identif
 
 A, B, and C are incorrect. A is incorrect because correlation with a penetration test would rarely be a prudent next step (unless the internal audit was solely focused on security configuration of target systems). B is incorrect because compensating controls are not the “go-to” remedy for curing control ineffectiveness; in some cases, compensating controls may be used, but this is not a typical approach. C is incorrect because a risk assessment does nothing to remediate control effectiveness findings.
 
-### Question # 1 - Which of the following statements is correct regarding applicable regulation and the selection of a security controls framework?
+### Question # 17 - Which of the following statements is correct regarding applicable regulation and the selection of a security controls framework?
 An appropriate framework will make it easier to map regulatory details to required activities.
 It makes no difference which controls framework is selected for regulatory compliance matters.
 Applicable laws and security control framework have little to do with each other.
@@ -266,7 +266,7 @@ Applicable regulations may or may not be specific to required activities. In som
 B, C, and D are incorrect. B is incorrect because there are cases where specific frameworks have coverage for specific regulations. For example, U.S. federal government agencies as well as service providers that provide information-related services to one or more of those agencies often follow NIST SP800-53, as the controls in NIST SP800-53 are required of these organizations. Similarly, 
 organizations that manage credit card payment information often adopt PCI-DSS as a control framework because they are specifically required to comply with all PCI-DSS requirements. (Note that PCI-DSS is not actually a law, but its position in the payments ecosystem gives it strong resemblance to regulation.) C is incorrect since this blanket statement is not true. D is incorrect because the question is not addressing cyber-risk insurance.
 
-### Question # 1 - In the use of FAIR (Factor Analysis of Information Risk), how does a risk manager determine the potential types of loss?
+### Question # 18 - In the use of FAIR (Factor Analysis of Information Risk), how does a risk manager determine the potential types of loss?
 A risk assessment is used to determine what types of loss may occur.
 The record of prior losses is used.
 Losses in similar companies are used.
@@ -277,7 +277,7 @@ The FAIR (Factor Analysis of Information Risk) analysis method contains six type
 
 A, B, and C are incorrect because the FAIR methodology does not employ these means. Instead, FAIR uses six types of loss: Productivity, Response, Replacement, Fines and Judgments, Competitive Advantage, and Reputation. The FAIR method does not accommodate any other types of loss.
 
-### Question # 1 - Dawn, a CISO in a pharmaceutical organization, is partnering with the company's legal department on the topic of new applicable regulations. Which of the following approaches is most likely to be successful?
+### Question # 19 - Dawn, a CISO in a pharmaceutical organization, is partnering with the company's legal department on the topic of new applicable regulations. Which of the following approaches is most likely to be successful?
 Examine each new regulation for impact to the organization. Confirm applicability if impact is significant.
 Examine each new regulation for impact to the organization. Confirm applicability for regulations from other countries.
 Examine each new regulation for applicability. If applicable, analyze for impact to the organization.
@@ -288,7 +288,7 @@ Because there are so many regulations of different kinds, it is first necessary 
 
 A, B, and D are incorrect. A and B are incorrect because these approaches will cause unnecessary burden on the organization. Regulations should first be vetted for applicability; if they are not applicable, no further work needs to be done. D is incorrect because this answer does not include the vital step of determining applicability. That said, a subscription service for new and emerging laws and regulations may be cost-effective for many organizations.
 
-### Question # 1 - What steps must be completed prior to the start of a risk assessment in an organization?
+### Question # 20 - What steps must be completed prior to the start of a risk assessment in an organization?
 Determine the qualifications of the firm that will perform the audit.
 Determine scope, purpose, and criteria for the audit.
 Determine the qualifications of the person(s) who will perform the audit.
@@ -299,7 +299,7 @@ According to ISO/IEC 27005 and other risk management frameworks, it is first nec
 
 A, C, and D are incorrect. A and C are incorrect because any confirmation of qualifications would be determined prior to this point. D is incorrect because an audit that was not applicable should not be performed.
 
-### Question # 1 - A risk manager recently completed a risk assessment in an organization. Executive management asked the risk manager to remove one of the findings from the final report. This removal is an example of what?
+### Question # 21 - A risk manager recently completed a risk assessment in an organization. Executive management asked the risk manager to remove one of the findings from the final report. This removal is an example of what?
 Gerrymandering
 Internal politics
 Risk avoidance
@@ -309,304 +309,135 @@ Answer: D.
 Although this is a questionable approach, removal of a risk finding in a report is, implicitly, risk acceptance. It could, however, be even worse than that, and in some industries, this could be considered negligent and a failure of due care. A risk manager should normally object to such an action and may consider documenting the matter or even filing a formal protest.
 
 A, B, and C are incorrect. A is incorrect because the term “gerrymandering” is related to the formation of electoral districts in government. B is incorrect because, although the situation may be an example of internal politics, this is not the best answer. C is incorrect because risk avoidance is defined as a discontinuation of the activity related to the risk.
-Which of the following is not a risk management methodology?
 
+### Question # 1 - Which of the following is not a risk management methodology?
 FRAP
-
 ISO/IEC 27005
-
 NIST Special Publication 800-39
-
 FAIR
+Answer: D. 
 
-Answer:
-Which of the following is not a risk management methodology?
-
-FRAP
-
-ISO/IEC 27005
-
-NIST Special Publication 800-39
-
-FAIR
-
-
-D. FAIR (Factor Analysis of Information Risk) is not a risk management framework, but a risk assessment methodology. Though closely related, a risk management framework is concerned with the outcomes of risk assessments, but not the performance of the risk assessments themselves.
+FAIR (Factor Analysis of Information Risk) is not a risk management framework, but a risk assessment methodology. Though closely related, a risk management framework is concerned with the outcomes of risk assessments, but not the performance of the risk assessments themselves.
 
 A, B, and C are incorrect because FRAP, ISO/IEC 27005, and NIST SP 800-39 are examples of risk management frameworks.
-What is the primary objective of the Factor Analysis of Information Risk (FAIR) methodology?
 
+### Question # 1 - What is the primary objective of the Factor Analysis of Information Risk (FAIR) methodology?
 Determine the probability of a threat event.
-
 Determine the impact of a threat event.
-
 Determine the cost of a threat event.
-
 Determine the type of a threat event.
+Answer: A. 
 
-Answer:
-What is the primary objective of the Factor Analysis of Information Risk (FAIR) methodology?
-
-Determine the probability of a threat event.
-
-Determine the impact of a threat event.
-
-Determine the cost of a threat event.
-
-Determine the type of a threat event.
-
-
-A. The primary objective of FAIR is to determine the probability of an event using “what if” analysis, which cannot be easily done using maturity models or checklists.
-
+The primary objective of FAIR is to determine the probability of an event using “what if” analysis, which cannot be easily done using maturity models or checklists.
 B, C, and D are incorrect because FAIR is not used to determine the impact, cost, or type of a threat or threat event.
-Why might the first control objective of CIS be “Inventory of Authorized and Unauthorized Devices”?
 
+### Question # 1 - Why might the first control objective of CIS be “Inventory of Authorized and Unauthorized Devices”?
 Most organizations are required to have effective asset inventory processes.
-
 The CIS controls framework is hardware asset–centric.
-
 Several IT and security processes depend upon an effective hardware inventory.
-
 The CIS controls framework is an antiquated controls framework.
+Answer: C. 
 
-Answer:
-Why might the first control objective of CIS be “Inventory of Authorized and Unauthorized Devices”?
-
-Most organizations are required to have effective asset inventory processes.
-
-The CIS controls framework is hardware asset–centric.
-
-Several IT and security processes depend upon an effective hardware inventory.
-
-The CIS controls framework is an antiquated controls framework.
-
-
-C. It is postulated that CIS places hardware asset inventory as its first control because hardware inventory is central to critical processes such as vulnerability management, security event monitoring, and malware prevention and response.
+It is postulated that CIS places hardware asset inventory as its first control because hardware inventory is central to critical processes such as vulnerability management, security event monitoring, and malware prevention and response.
 
 A, B, and D are incorrect. A is incorrect because this answer is a distractor. B and D are incorrect because these statements about CIS are untrue.
-Why is hardware asset inventory critical for the success of security operations?
 
-Critical processes such as software asset and software licensing depend upon accurate asset inventory.
-
-Critical processes such as vulnerability management, event management, and antimalware depend upon accurate asset inventory.
-
-Vulnerability scans need to cover all hardware assets so that all assets are scanned.
-
-Penetration tests need to cover all hardware assets so that all assets are scanned.
-
-Answer:
-Why is hardware asset inventory critical for the success of security operations?
-
+### Question # 1 - Why is hardware asset inventory critical for the success of security operations?
 Critical processes such as software asset and software licensing depends upon accurate asset inventory.
-
 Critical processes such as vulnerability management, event management, and antimalware depend upon accurate asset inventory.
-
 Vulnerability scans need to cover all hardware assets so that all assets are scanned.
-
 Penetration tests need to cover all hardware assets so that all assets are scanned.
+Answer: B. 
 
-
-B. Vulnerability management, event visibility, and malware control are among the most critical security operations processes. When these processes are effective, the chances of a successful attack diminish significantly. When asset inventory processes are ineffective, it is possible that there will be assets that are not scanned for vulnerabilities, monitored for events, or protected by antimalware. Intruders are able to identify these assets, which makes asset inventory a critically important activity in information security.
+Vulnerability management, event visibility, and malware control are among the most critical security operations processes. When these processes are effective, the chances of a successful attack diminish significantly. When asset inventory processes are ineffective, it is possible that there will be assets that are not scanned for vulnerabilities, monitored for events, or protected by antimalware. Intruders are able to identify these assets, which makes asset inventory a critically important activity in information security.
 
 A, C, and D are incorrect. A is incorrect because software inventory, while important for security operations, is not as important as vulnerability management, event management, and malware control. C and D are incorrect because vulnerability management and penetration tests, while important, are only a portion of critical activities that depend upon effective asset management.
+
 What are the most important security-related criteria for system classification?
-
 Data sensitivity
-
 Data sensitivity and operational criticality
-
 Operational criticality
-
 Location
+Answer: B. 
 
-Answer:
-What are the most important security-related criteria for system classification?
-
-Data sensitivity
-
-Data sensitivity and operational criticality
-
-Operational criticality
-
-Location
-
-
-B. Generally, the operational criticality of a system and the sensitivity of information stored in or processed by the system are the two most important criteria that determine a system's classification.
+Generally, the operational criticality of a system and the sensitivity of information stored in or processed by the system are the two most important criteria that determine a system's classification.
 
 A, C, and D are incorrect. A is incorrect because data sensitivity alone does not take into account operational criticality. C is incorrect because operational criticality alone does not take into account data sensitivity. D is incorrect because location alone does not take into account operational criticality or data sensitivity.
-A new CISO in a financial service organization is working to get asset inventory processes under control. The organization uses on-premises and IaaS-based virtualization services. What approach will most effectively identify all assets in use?
 
+### Question # 1 - A new CISO in a financial service organization is working to get asset inventory processes under control. The organization uses on-premises and IaaS-based virtualization services. What approach will most effectively identify all assets in use?
 Perform discovery scans on all networks.
-
 Obtain a list of all assets from the patch management platform.
-
 Obtain a list of all assets from the security event and information management (SIEM) system.
-
 Count all of the servers in each data center.
+Answer: A. 
 
-Answer:
-A new CISO in a financial service organization is working to get asset inventory processes under control. The organization uses on-premises and IaaS-based virtualization services. What approach will most effectively identify all assets in use?
-
-Perform discovery scans on all networks.
-
-Obtain a list of all assets from the patch management platform.
-
-Obtain a list of all assets from the security event and information management (SIEM) system.
-
-Count all of the servers in each data center.
-
-
-A. Although none of these approaches is ideal, performing discovery scans on all networks is the best first step. Even so, it will be necessary to consult with network engineers to ensure that discovery scans will scan all known networks in on-premises and IaaS environments. Other helpful steps include interviewing system engineers to understand virtual machine management systems and obtain inventory information from them.
+Although none of these approaches is ideal, performing discovery scans on all networks is the best first step. Even so, it will be necessary to consult with network engineers to ensure that discovery scans will scan all known networks in on-premises and IaaS environments. Other helpful steps include interviewing system engineers to understand virtual machine management systems and obtain inventory information from them.
 
 B, C, and D are incorrect. B is incorrect because patch management systems may not be covering all assets in the organization's environment. C is incorrect because the SIEM may not be receiving log data from all assets in the organization's environment. D is incorrect because the organization is using virtualization technology, as well as IaaS-based platforms; counting servers in an on-premises data center will fail to discover virtual assets and IaaS-based assets.
-Which of the following security-based metrics is most likely to provide value when reported to management?
 
+### Question # 1 - Which of the following security-based metrics is most likely to provide value when reported to management?
 Number of firewall packets dropped per server per day
-
 Number of persons who have completed security awareness training
-
 Number of phishing messages blocked per month
-
 Percent of production servers that have been patched within SLA
+Answer: D. 
 
-Answer:
-Which of the following security-based metrics is most likely to provide value when reported to management?
-
-Number of firewall packets dropped per server per day
-
-Number of persons who have completed security awareness training
-
-Number of phishing messages blocked per month
-
-Percent of production servers that have been patched within SLA
-
-
-D. Of the choices listed, this metric will provide the most value and meaning to management, because this helps to reveal the security posture of production servers that support the business.
+Of the choices listed, this metric will provide the most value and meaning to management, because this helps to reveal the security posture of production servers that support the business.
 
 A, B, and C are incorrect. A is incorrect because the number of packets dropped by the firewall does not provide any business value to management. B is incorrect because, although it does provide some value to management, this is not as good an answer as D. C is incorrect because the number of phishing messages blocked does not provide much business value to management.
-Ravila, a CISO, reports security-related metrics to executive management. The trend for the past several months for the metric “Percent of patches applied within SLA for servers supporting manufacturing” is 100 percent, 99.5 percent, 100 percent, 100 percent, 99.2 percent, and 74.5 percent. What action should Ravila take with regard to these metrics?
 
+### Question # 1 - Ravila, a CISO, reports security-related metrics to executive management. The trend for the past several months for the metric “Percent of patches applied within SLA for servers supporting manufacturing” is 100 percent, 99.5 percent, 100 percent, 100 percent, 99.2 percent, and 74.5 percent. What action should Ravila take with regards to these metrics?
 Explain that risk levels have dropped correspondingly.
-
 No action is required because this is normal for patch management processes.
-
 Investigate the cause of the reduction in patching and report to management.
-
 Wait until the next month to see if the metric returns to normal.
+Answer: C. 
 
-Answer:
-Ravila, a CISO, reports security-related metrics to executive management. The trend for the past several months for the metric “Percent of patches applied within SLA for servers supporting manufacturing” is 100 percent, 99.5 percent, 100 percent, 100 percent, 99.2 percent, and 74.5 percent. What action should Ravila take with regards to these metrics?
-
-Explain that risk levels have dropped correspondingly.
-
-No action is required because this is normal for patch management processes.
-
-Investigate the cause of the reduction in patching and report to management.
-
-Wait until the next month to see if the metric returns to normal.
-
-
-C. As patching is an important activity, and because the servers support critical business operations, this sudden drop in patch coverage needs to be investigated immediately and corrected as quickly as possible.
+As patching is an important activity, and because the servers support critical business operations, this sudden drop in patch coverage needs to be investigated immediately and corrected as quickly as possible.
 
 A, B, and D are incorrect. A is incorrect because a reduction in risk levels would not result in a decrease in patching. B is incorrect because the reduction in patch coverage is not a normal event. D is incorrect because it would be unwise to “wait and see” regarding such an important activity as server patching.
-Duncan is the CISO in a large electric utility. Duncan received an advisory that describes a serious flaw in Intel CPUs that permits an attacker to take control of an affected system. Knowing that much of the utility's industrial control system (ICS) is Intel-based, what should Duncan do next?
 
+### Question # 1 - Duncan is the CISO in a large electric utility. Duncan received an advisory that describes a serious flaw in Intel CPUs that permits an attacker to take control of an affected system. Knowing that much of the utility's industrial control system (ICS) is Intel-based, what should Duncan do next?
 Report the situation to executive management.
-
 Create a new entry in the risk register.
-
 Analyze the situation to understand business impact.
-
 Declare a security incident.
+Answer: C. 
 
-Answer:
-Duncan is the CISO in a large electric utility. Duncan received an advisory that describes a serious flaw in Intel CPUs that permits an attacker to take control of an affected system. Knowing that much of the utility's industrial control system (ICS) is Intel-based, what should Duncan do next?
-
-Report the situation to executive management.
-
-Create a new entry in the risk register.
-
-Analyze the situation to understand business impact.
-
-Declare a security incident.
-
-
-C. Though it's tempting to notify executive management immediately, without first understanding any potential business impact, there's little to tell. For this reason, the best first step is to analyze the matter so that any business impact can be determined.
+Though it's tempting to notify executive management immediately, without first understanding any potential business impact, there's little to tell. For this reason, the best first step is to analyze the matter so that any business impact can be determined.
 
 A, B, and D are incorrect. A is incorrect because the impact is not yet known. B is incorrect because it is not the best answer. After understanding the matter, it may indeed be prudent to create a risk register entry, particularly if the matter is complicated and likely to persist for some time. D is incorrect because the impact of the advisory on the organization is not yet known. In some incident response plans, however, organizations may use advisories like this as a trigger for emergency analysis to take place.
-Duncan is the CISO in a large electric utility. Duncan received an advisory that describes a serious flaw in Intel CPUs that permits an attacker to take control of an affected system. After analyzing the advisory, Duncan realizes that many of the ICS devices in the environment are vulnerable. Knowing that much of the utility's industrial control system (ICS) is Intel-based, what should Duncan do next?
 
+### Question # 1 - Duncan is the CISO in a large electric utility. Duncan received an advisory that describes a serious flaw in Intel CPUs that permits an attacker to take control of an affected system. After analyzing the advisory, Duncan realizes that many of the ICS devices in the environment are vulnerable. Knowing that much of the utility's industrial control system (ICS) is Intel-based, what should Duncan do next?
 Create a new entry in the risk register.
-
 Report the situation to executive management.
-
 Create a new entry in the vulnerability register.
-
 Declare a security incident.
+Answer: B. 
 
-Answer:
-Duncan is the CISO in a large electric utility. Duncan received an advisory that describes a serious flaw in Intel CPUs that permits an attacker to take control of an affected system. After analyzing the advisory, Duncan realizes that many of the ICS devices in the environment are vulnerable. Knowing that much of the utility's industrial control system (ICS) is Intel-based, what should Duncan do next?
-
-Create a new entry in the risk register.
-
-Report the situation to executive management.
-
-Create a new entry in the vulnerability register.
-
-Declare a security incident.
-
-
-B. Because the CISO has analyzed the advisory, the impact to the organization can be known. This matter should be reported to executive management, along with an explanation of business impact and a remediation plan.
+Because the CISO has analyzed the advisory, the impact to the organization can be known. This matter should be reported to executive management, along with an explanation of business impact and a remediation plan.
 
 A, C, and D are incorrect. A is incorrect because this matter has greater urgency than the risk management lifecycle is likely to provide. If, however, it is determined that there is no easy or quick fix, a risk register entry might be warranted. C is incorrect because it may be necessary to create many entries instead of a single entry. There may be many different types of devices that are affected by the advisory, necessitating an entry for each time, or an entry for each device, depending upon how the organization manages its vulnerabilities. D is incorrect because most organizations’ incident response plans do not address vulnerabilities, but actual threat events.
-An internal audit examination of the employee termination process determined that in 20 percent of employee terminations, one or more terminated employee user accounts were not locked or removed. The internal audit department also found that routine monthly user access reviews identified 100 percent of missed account closures, resulting in those user accounts being closed no more than 60 days after users were terminated. What corrective actions, if any, are warranted?
 
+### Question # 1 - An internal audit examination of the employee termination process determined that in 20 percent of employee terminations, one or more terminated employee user accounts were not locked or removed. The internal audit department also found that routine monthly user access reviews identified 100 percent of missed account closures, resulting in those user accounts being closed no more than 60 days after users were terminated. What corrective actions, if any, are warranted?
 Increase user access review process frequency to twice per week.
-
 Increase user access review process frequency to weekly.
-
 No action is necessary since monthly user access review process is effective.
-
 Improve the user termination process to reduce the number of missed account closures.
+Answer: D. 
 
-Answer:
-An internal audit examination of the employee termination process determined that in 20 percent of employee terminations, one or more terminated employee user accounts were not locked or removed. The internal audit department also found that routine monthly user access reviews identified 100 percent of missed account closures, resulting in those user accounts being closed no more than 60 days after users were terminated. What corrective actions, if any, are warranted?
-
-Increase user access review process frequency to twice per week.
-
-Increase user access review process frequency to weekly.
-
-No action is necessary since monthly user access review process is effective.
-
-Improve the user termination process to reduce the number of missed account closures.
-
-
-D. The rate that user terminations are not performed properly is too high. Increasing the frequency of user access reviews will likely take too much time. The best remedy is to find ways of improving the user termination process. Since the “miss” rate is 20 percent, it is assumed that all processes are manual.
+The rate that user terminations are not performed properly is too high. Increasing the frequency of user access reviews will likely take too much time. The best remedy is to find ways of improving the user termination process. Since the “miss” rate is 20 percent, it is assumed that all processes are manual.
 
 A, B, and C are incorrect. A and B are incorrect because the user access review process likely takes too much effort. Since the “miss” rate is 20 percent, it is assumed that all processes are manual. C is incorrect, since the “miss” rate of 20 percent would be considered too high in most organizations. An acceptable rate would be under 2 percent.
-To optimize security operations processes, the CISO in an organization wants to establish an asset classification scheme. The organization has no data classification program. How should the CISO proceed?
 
+### Question # 1 - To optimize security operations processes, the CISO in an organization wants to establish an asset classification scheme. The organization has no data classification program. How should the CISO proceed?
 Establish an asset classification scheme based upon operational criticality.
-
 Establish an asset classification scheme based upon operational criticality and data classification.
-
 First establish a data classification scheme and then an asset classification scheme based on data classification.
-
 Treat all assets equally until a data classification program has been established.
+Answer: A. 
 
-Answer:
-To optimize security operations processes, the CISO in an organization wants to establish an asset classification scheme. The organization has no data classification program. How should the CISO proceed?
-
-Establish an asset classification scheme based upon operational criticality.
-
-Establish an asset classification scheme based upon operational criticality and data classification.
-
-First establish a data classification scheme and then an asset classification scheme based on data classification.
-
-Treat all assets equally until a data classification program has been established.
-
-
-A. Even in the absence of a data classification program, an asset classification program can be developed. In such a case, asset classification cannot be based on data classification, but assets can be classified according to business operational criticality. For example, assets can be mapped to a business impact analysis (BIA) to determine which assets are the most critical to the business.
+Even in the absence of a data classification program, an asset classification program can be developed. In such a case, asset classification cannot be based on data classification, but assets can be classified according to business operational criticality. For example, assets can be mapped to a business impact analysis (BIA) to determine which assets are the most critical to the business.
 
 B, C, and D are incorrect. B is incorrect because there is no data classification scheme upon which to base an asset classification scheme. C is incorrect because it can take a great deal of time to develop a data classification scheme and map data to assets. It is assumed that the CISO wants to establish the asset classification scheme quickly. D is incorrect because there should be an opportunity to classify assets according to operational criticality. If, however, there is little or no sense of business process priority and criticality, then, yes, it might be premature to develop an asset classification scheme.
 A CISO in a U.S.-based healthcare organization is considering implementation of a data classification program. What criteria should be considered for classifying information?
