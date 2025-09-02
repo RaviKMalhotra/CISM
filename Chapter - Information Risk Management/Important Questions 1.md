@@ -440,1329 +440,582 @@ Answer: A.
 Even in the absence of a data classification program, an asset classification program can be developed. In such a case, asset classification cannot be based on data classification, but assets can be classified according to business operational criticality. For example, assets can be mapped to a business impact analysis (BIA) to determine which assets are the most critical to the business.
 
 B, C, and D are incorrect. B is incorrect because there is no data classification scheme upon which to base an asset classification scheme. C is incorrect because it can take a great deal of time to develop a data classification scheme and map data to assets. It is assumed that the CISO wants to establish the asset classification scheme quickly. D is incorrect because there should be an opportunity to classify assets according to operational criticality. If, however, there is little or no sense of business process priority and criticality, then, yes, it might be premature to develop an asset classification scheme.
-A CISO in a U.S.-based healthcare organization is considering implementation of a data classification program. What criteria should be considered for classifying information?
 
+### Question # 1 - A CISO in a U.S.-based healthcare organization is considering implementation of a data classification program. What criteria should be considered for classifying information?
 Sensitivity, in scope for HIPAA, in scope for HITECH.
-
 Monetary value, operational criticality, sensitivity.
-
 Information system, storage, business owner.
-
 Data at rest, data in motion, data in transit.
+Answer: B. 
 
-Answer:
-A CISO in a U.S.-based healthcare organization is considering implementation of a data classification program. What criteria should be considered for classifying information?
-
-Sensitivity, in scope for HIPAA, in scope for HITECH.
-
-Monetary value, operational criticality, sensitivity.
-
-Information system, storage, business owner.
-
-Data at rest, data in motion, data in transit.
-
-
-B. Monetary value, operational criticality, and sensitivity are typical considerations for data classification. Some organizations may have additional considerations, such as intellectual property.
+Monetary value, operational criticality, and sensitivity are typical considerations for data classification. Some organizations may have additional considerations, such as intellectual property.
 
 A, C, and D are incorrect. A is incorrect because these are not the best criteria. C is incorrect because these considerations are not the best criteria. D is incorrect because these are not classification considerations, but data-handling use cases.
-The Good Doctor healthcare organization has initiated its data management program. One of the early activities is a data discovery project to learn about the extent of sensitive data in unstructured data stores. What is the best method for conducting this data discovery?
 
+### Question # 1 - The Good Doctor healthcare organization has initiated its data management program. One of the early activities is a data discovery project to learn about the extent of sensitive data in unstructured data stores. What is the best method for conducting this data discovery?
 Implement passive DLP tools on servers and endpoints.
-
 Implement intrusive DLP tools on servers and endpoints.
-
 Manually examine a randomly chosen set of files to see if they contain sensitive data.
-
 Run a data discovery tool against file servers and SharePoint servers.
+Answer: D. 
 
-Answer:
-The Good Doctor healthcare organization has initiated its data management program. One of the early activities is a data discovery project to learn about the extent of sensitive data in unstructured data stores. What is the best method for conducting this data discovery?
-
-Implement passive DLP tools on servers and endpoints.
-
-Implement intrusive DLP tools on servers and endpoints.
-
-Manually examine a randomly chosen set of files to see if they contain sensitive data.
-
-Run a data discovery tool against file servers and SharePoint servers.
-
-
-D. The best first activity is to run special-purpose data discovery tools against all unstructured data stores such as file servers, SharePoint servers, and cloud provider data stores. This will help the organization better understand the extent of sensitive data in these systems. Results from this activity can be used to determine what next steps are appropriate.
-
+The best first activity is to run special-purpose data discovery tools against all unstructured data stores such as file servers, SharePoint servers, and cloud provider data stores. This will help the organization better understand the extent of sensitive data in these systems. Results from this activity can be used to determine what next steps are appropriate.
 A, B, and C are incorrect. A and B are incorrect because these are more intrusive and time-consuming options that may or may not be needed. C is incorrect because random sampling may miss significant instances, and this option may require excessive time.
-What is typically the greatest challenge when implementing a data classification program?
 
+### Question # 1 - What is typically the greatest challenge when implementing a data classification program?
 Difficulty with industry regulators
-
 Understanding the types of data in use
-
 Training end users on data handling procedures
-
 Implementing and tuning DLP agents on servers and endpoints
+Answer: C. 
 
-Answer:
-What is typically the greatest challenge when implementing a data classification program?
-
-Difficulty with industry regulators
-
-Understanding the types of data in use
-
-Training end users on data handling procedures
-
-Implementing and tuning DLP agents on servers and endpoints
-
-
-C. The most difficult challenge associated with implementing a data classification program is ensuring that workers understand and are willing to comply with data handling procedures. By comparison, automation is simpler primarily because it is deterministic.
+The most difficult challenge associated with implementing a data classification program is ensuring that workers understand and are willing to comply with data handling procedures. By comparison, automation is simpler primarily because it is deterministic.
 
 A, B, and D are incorrect. A is incorrect because regulators are not typically as concerned with data classification as they are with the protection of relevant information. B is incorrect because, although it can be a challenge understanding the data in use in an organization, user compliance is typically the biggest challenge. D is incorrect because implementing and tuning agents are not usually as challenging as end user behavior training.
-Russ, a security manager at a small online retailer, is completing a self-assessment questionnaire for PCI-DSS compliance. In studying the questionnaire, Russ has noted that his organization is not in compliance with all requirements. No auditor will be verifying the accuracy of the questionnaire. What is Russ's best course of action?
 
+### Question # 1 - Russ, a security manager at a small online retailer, is completing a self-assessment questionnaire for PCI-DSS compliance. In studying the questionnaire, Russ has noted that his organization is not in compliance with all requirements. No auditor will be verifying the accuracy of the questionnaire. What is Russ's best course of action?
 Complete the form truthfully and notify senior management of the exceptions.
-
 Complete the form truthfully and submit it to authorities.
-
 Mark each control as compliant and submit it to authorities.
-
 Mark each control as compliant and notify senior management that he must be truthful on the next such submission.
+Answer: A. 
 
-Answer:
-Russ, a security manager at a small online retailer, is completing a self-assessment questionnaire for PCI-DSS compliance. In studying the questionnaire, Russ has noted that his organization is not in compliance with all requirements. No auditor will be verifying the accuracy of the questionnaire. What is Russ's best course of action?
-
-Complete the form truthfully and notify senior management of the exceptions.
-
-Complete the form truthfully and submit it to authorities.
-
-Mark each control as compliant and submit it to authorities.
-
-Mark each control as compliant and notify senior management that he must be truthful on the next such submission.
-
-
-A. Security professionals, particularly those who have industry certifications that have a code of conduct (including ISACA's CISM certification), must be truthful, even when there may be personal, professional, or organizational consequences. In this situation, the form must be completed accurately, even though this means that the organization may have some short-term compliance issues with authorities.
+Security professionals, particularly those who have industry certifications that have a code of conduct (including ISACA's CISM certification), must be truthful, even when there may be personal, professional, or organizational consequences. In this situation, the form must be completed accurately, even though this means that the organization may have some short-term compliance issues with authorities.
 
 B, C, and D are incorrect. B is incorrect because executive management should also be made aware of the compliance issue. C and D are incorrect because it would be unethical to falsify answers on the questionnaire.
-Russ, a security manager at a small online retailer, learned recently about the European General Data Protection Regulation (GDPR). The retailer has customers all over the world. The organization has outsourced its online catalog, order acceptance, and payment functions to a cloud-based e-commerce platform. Russ is unaware of any efforts that the retailer may have made to be compliant with GDPR. What should Russ do about this?
 
+### Question # 1 - Russ, a security manager at a small online retailer, learned recently about the European General Data Protection Regulation (GDPR). The retailer has customers all over the world. The organization has outsourced its online catalog, order acceptance, and payment functions to a cloud-based e-commerce platform. Russ is unaware of any efforts that the retailer may have made to be compliant with GDPR. What should Russ do about this?
 Ask senior management or the legal department about this matter.
-
 Assume that the organization is compliant with GDPR.
-
 Nothing, because the cloud-based e-commerce platform is required to be GDPR compliant.
-
 Contact the cloud-based e-commerce platform and confirm its compliance to GDPR.
+Answer: A. 
 
-Answer:
-Russ, a security manager at a small online retailer, learned recently about the European General Data Protection Regulation (GDPR). The retailer has customers all over the world. The organization has outsourced its online catalog, order acceptance, and payment functions to a cloud-based e-commerce platform. Russ is unaware of any efforts that the retailer may have made to be compliant with GDPR. What should Russ do about this?
-
-Ask senior management or the legal department about this matter.
-
-Assume that the organization is compliant with GDPR.
-
-Nothing, because the cloud-based e-commerce platform is required to be GDPR compliant.
-
-Contact the cloud-based e-commerce platform and confirm its compliance to GDPR.
-
-
-A. A responsible security manager would always reach out to the legal department or another member of senior management to inquire about the organization's state of compliance to a law or regulation.
+A responsible security manager would always reach out to the legal department or another member of senior management to inquire about the organization's state of compliance to a law or regulation.
 
 B, C, and D are incorrect. B is incorrect because it is unwise to assume that others in an organization have all matters taken care of. C is incorrect because the retailer itself must be GDPR compliant, regardless of whether any part of its operations is outsourced. D is incorrect because the organization itself must be GDPR compliant. That said, the outsourcing organization must also be GDPR compliant.
-Russ, a security leader at a global online retailer, is developing a system classification plan. Systems are classified as High, Moderate, or Low, depending upon operational criticality, data sensitivity, and exposure to threats. In a given environment, how should servers that support (such as DNS servers, time servers) High, Moderate, and Low production servers be classified?
 
+### Question # 1 - Russ, a security leader at a global online retailer, is developing a system classification plan. Systems are classified as High, Moderate, or Low, depending upon operational criticality, data sensitivity, and exposure to threats. In a given environment, how should servers that support (such as DNS servers, time servers) High, Moderate, and Low production servers be classified?
 Support servers should be classified as High, since some servers they support are High.
-
 Support servers should be classified as Low, since they do not perform critical transactions, nor do they contain sensitive data.
-
 Support servers should be classified at the same level as the lowest-level servers they support.
-
 Support servers should be classified at the same level as the highest-level servers they support.
+Answer: D. 
 
-Answer:
-Russ, a security leader at a global online retailer, is developing a system classification plan. Systems are classified as High, Moderate, or Low, depending upon operational criticality, data sensitivity, and exposure to threats. In a given environment, how should servers that support (such as DNS servers, time servers) High, Moderate, and Low production servers be classified?
-
-Support servers should be classified as High, since some servers they support are High.
-
-Support servers should be classified as Low, since they do not perform critical transactions, nor do they contain sensitive data.
-
-Support servers should be classified at the same level as the lowest-level servers they support.
-
-Support servers should be classified at the same level as the highest-level servers they support.
-
-
-D. The best option is to classify support servers at the same level as the highest-rated servers they support. For instance, if support servers provide support to servers that are rated Medium, then the support servers should be rated as Medium. This will ensure that the support servers are protected (whether for security, resilience, or both) at the same levels as the servers they support.
+The best option is to classify support servers at the same level as the highest-rated servers they support. For instance, if support servers provide support to servers that are rated Medium, then the support servers should be rated as Medium. This will ensure that the support servers are protected (whether for security, resilience, or both) at the same levels as the servers they support.
 
 A, B, and C are incorrect. A is incorrect because the question does not specify the classification level of servers they’re supporting. B is incorrect because it would be imprudent to classify support servers as Low. It would be better to classify them at the same level as the highest-rated servers they support. C is incorrect because the support servers might be supporting higher-rated servers.
-Russ, a security leader at a global online retailer, is designing a facilities classification plan to provide more consistency and purpose for physical security controls at the organization's worldwide business and processing locations. What criteria should be used to classify facilities for this purpose?
 
+### Question # 1 - Russ, a security leader at a global online retailer, is designing a facilities classification plan to provide more consistency and purpose for physical security controls at the organization's worldwide business and processing locations. What criteria should be used to classify facilities for this purpose?
 Sensitivity of data stored or accessed there
-
 Sensitivity of data stored or accessed there and criticality of operations performed there
-
 Criticality of operations performed there
-
-Size of facilities and whether there are regulations requiring facilities protection
-
-Answer:
-Russ, a security leader at a global online retailer, is designing a facilities classification plan to provide more consistency and purpose for physical security controls at the organization's worldwide business and processing locations. What criteria should be used to classify facilities for this purpose?
-
-Sensitivity of data stored or accessed there
-
-Sensitivity of data stored or accessed there and criticality of operations performed there
-
-Criticality of operations performed there
-
 Size of facilities, and whether there are regulations requiring facilities protection
+Answer: B. 
 
-
-B. Facilities classification is typically established based on two main criteria: sensitivity of information stored at, or accessed at, a location and operational criticality of activities being performed there. For example, a work facility would be classified as High if data classified as High was stored there, or if personnel who worked there routinely accessed data classified as High. A work facility could also be classified as High if critical operations were performed there, such as a hosting facility or a call center.
+Facilities classification is typically established based on two main criteria: sensitivity of information stored at, or accessed at, a location and operational criticality of activities being performed there. For example, a work facility would be classified as High if data classified as High was stored there, or if personnel who worked there routinely accessed data classified as High. A work facility could also be classified as High if critical operations were performed there, such as a hosting facility or a call center.
 
 A, C, and D are incorrect. A is incorrect because facilities classification should be determined by more than just the sensitivity of data stored or accessed there. C is incorrect because facilities classification should be based on more than just the criticality of operations performed there. D is incorrect because data classification and operational criticality should also be considerations for facilities classification.
+
 Which of the following is not a valid method for assigning asset value?
-
 Net present value
-
 Replacement cost
-
 Repair cost
-
 Book value
+Answer: C. 
 
-Answer:
-Which of the following is not a valid method for assigning asset value?
-
-Net present value
-
-Replacement cost
-
-Repair cost
-
-Book value
-
-
-C. Repair cost is not a valid method for assigning asset valuation. Valid methods include replacement cost, book value, net present value, redeployment cost, creation cost, reacquisition cost, and consequential financial cost.
+Repair cost is not a valid method for assigning asset valuation. Valid methods include replacement cost, book value, net present value, redeployment cost, creation cost, reacquisition cost, and consequential financial cost.
 
 A, B, and D are incorrect. These are valid methods for assigning asset value.
-Dylan is an executive security consultant who is assessing a client organization for compliance to various applicable information security and privacy regulations. Dylan has identified compliance issues and recommends that these issues be documented in the client organization's business. How should these issues be documented?
 
+### Question # 1 - Dylan is an executive security consultant who is assessing a client organization for compliance to various applicable information security and privacy regulations. Dylan has identified compliance issues and recommends that these issues be documented in the client organization's business. How should these issues be documented?
 Separate entries for each regulation should be made in the organization's risk register.
-
 A single entry should be made in the organization's risk register.
-
 Separate entries for each regulation should be made in the organization's security incident log.
-
 A single entry should be made in the organization's security incident log.
+Answer: B. 
 
-Answer:
-Dylan is an executive security consultant who is assessing a client organization for compliance to various applicable information security and privacy regulations. Dylan has identified compliance issues and recommends that these issues be documented in the client organization's business. How should these issues be documented?
-
-Separate entries for each regulation should be made in the organization's risk register.
-
-A single entry should be made in the organization's risk register.
-
-Separate entries for each regulation should be made in the organization's security incident log.
-
-A single entry should be made in the organization's security incident log.
-
-
-B. The best way to document these findings is to create a single risk register entry for the matter. There could be dozens of similar issues that have common remedies, making it impractical to create potentially dozens of similar entries.
+The best way to document these findings is to create a single risk register entry for the matter. There could be dozens of similar issues that have common remedies, making it impractical to create potentially dozens of similar entries.
 
 A, C, and D are incorrect. A is incorrect because there could be numerous similar entries that would create unnecessary clutter in the risk register. C and D are incorrect because the security incident log is not the best place to record this matter.
-For disaster recovery purposes, why is book value not a preferred method for determining the value of assets?
 
+### Question # 1 - For disaster recovery purposes, why is book value not a preferred method for determining the value of assets?
 Information assets have no book value.
-
 Book value may vary based on location if a recovery site is located elsewhere.
-
 Some assets may not be tracked for depreciation.
-
 The cost to replace damaged or destroyed assets could exceed book value.
+Answer: D. 
 
-Answer:
-For disaster recovery purposes, why is book value not a preferred method for determining the value of assets?
-
-Information assets have no book value.
-
-Book value may vary based on location if a recovery site is located elsewhere.
-
-Some assets may not be tracked for depreciation.
-
-The cost to replace damaged or destroyed assets could exceed book value.
-
-
-D. For disaster recovery purposes, organizations should use replacement or redeployment cost versus book value for asset value. If assets are damaged or destroyed in a disaster, they must be replaced; costs for replacements may be much higher than book value.
+For disaster recovery purposes, organizations should use replacement or redeployment cost versus book value for asset value. If assets are damaged or destroyed in a disaster, they must be replaced; costs for replacements may be much higher than book value.
 
 A, B, and C are incorrect. A is incorrect because this question is not specifically about information assets. B is incorrect because this is not a true statement. C is incorrect because this statement is not relevant.
-A security analyst has identified a critical server that is missing an important security-related operating system patch. What has the security analyst identified?
 
+### Question # 1 - A security analyst has identified a critical server that is missing an important security-related operating system patch. What has the security analyst identified?
 A vulnerability
-
 A threat
-
 A risk
-
 An incident
+Answer: A. 
 
-Answer:
-A security analyst has identified a critical server that is missing an important security-related operating system patch. What has the security analyst identified?
-
-A vulnerability
-
-A threat
-
-A risk
-
-An incident
-
-
-A. The security analysist has identified a vulnerability, which is a weakness that could more easily permit one or more types of threats to occur.
+The security analysist has identified a vulnerability, which is a weakness that could more easily permit one or more types of threats to occur.
 
 B, C, and D are incorrect. B is incorrect because the missing patch is not a threat, but a vulnerability that could permit a threat to occur. C is incorrect because this is not the best answer. D is incorrect because the missing patch is not an incident, although it may permit an incident to occur.
-A security analyst has identified a new technique that cybercriminals are using to break into server operating systems. What has the security analyst identified?
 
+### Question # 1 - A security analyst has identified a new technique that cybercriminals are using to break into server operating systems. What has the security analyst identified?
 A vulnerability
-
 A threat
-
 A risk
-
 An incident
+Answer: B. 
 
-Answer:
-A security analyst has identified a new technique that cybercriminals are using to break into server operating systems. What has the security analyst identified?
-
-A vulnerability
-
-A threat
-
-A risk
-
-An incident
-
-
-B. The security analysis has identified a threat that, if realized, could result in an intrusion into the organization's systems.
+The security analysis has identified a threat that, if realized, could result in an intrusion into the organization's systems.
 
 A, C, and D are incorrect. A is incorrect because these techniques are not a vulnerability, but a threat. C is incorrect because this is not the best answer. D is incorrect because the new technique is not an incident, although it might be possible for an incident to occur because of the threat.
-Threat actors consist of all of the following except which one?
 
+### Question # 1 - Threat actors consist of all of the following except which one?
 Trojans
-
 Hacktivists
-
 Cybercriminal organizations
-
 Employees
+Answer: A. 
 
-Answer:
-Threat actors consist of all of the following except which one?
-
-Trojans
-
-Hacktivists
-
-Cybercriminal organizations
-
-Employees
-
-
-A. Trojans are threats, but they are not threat actors. Threat actors consist of external parties such as hackers, cybercriminal organizations, hacktivists, and more; internal users are also considered threat actors in the context of “insider threat.”
+Trojans are threats, but they are not threat actors. Threat actors consist of external parties such as hackers, cybercriminal organizations, hacktivists, and more; internal users are also considered threat actors in the context of “insider threat.”
 
 B, C, and D are incorrect because hacktivists, employees, and cybercriminals are all considered threat actors.
-While deliberating an item in an organization's risk register, members of the cybersecurity steering committee have decided that the organization should discontinue a new feature in its online social media platform. This decision is an example of what?
 
+### Question # 1 - While deliberating an item in an organization's risk register, members of the cybersecurity steering committee have decided that the organization should discontinue a new feature in its online social media platform. This decision is an example of what?
 Risk transfer
-
 Risk acceptance
-
 Risk mitigation
-
 Risk avoidance
+Answer: D. 
 
-Answer:
-While deliberating an item in an organization's risk register, members of the cybersecurity steering committee have decided that the organization should discontinue a new feature in its online social media platform. This decision is an example of what?
-
-Risk transfer
-
-Risk acceptance
-
-Risk mitigation
-
-Risk avoidance
-
-
-D. Risk avoidance is one of four risk treatment options. In risk avoidance, the activity associated with an identified risk is discontinued.
+Risk avoidance is one of four risk treatment options. In risk avoidance, the activity associated with an identified risk is discontinued.
 
 A, B, and C are incorrect. Risk acceptance, risk mitigation, and risk transfer are not the correct terms associated with the organization's decision to discontinue the business activity discussed here.
-NotPetya is an example of what?
 
+### Question # 1 - NotPetya is an example of what?
 Threat
-
 Spyware
-
 Mass-mailing worm
-
 Password-cracking tool
+Answer: A. 
 
-Answer:
-NotPetya is an example of what?
-
-Threat
-
-Spyware
-
-Mass-mailing worm
-
-Password-cracking tool
-
-
-A. NotPetya is a threat. More specifically, NotPetya is malware that resembles ransomware but lacks the ability to decrypt data; thus, it is considered by many to be destructware, or software that destroys data files.
+NotPetya is a threat. More specifically, NotPetya is malware that resembles ransomware but lacks the ability to decrypt data; thus, it is considered by many to be destructware, or software that destroys data files.
 
 B, C, and D are incorrect. B is incorrect because NotPetya is not spyware. C is incorrect because NotPetya is not a mass-mailing worm. D is incorrect because NotPetya is not a password cracker.
-Randi, a security architect, is seeking ways to improve a defense-in-depth to defend against ransomware. Randi's organization employs advanced antimalware on all endpoints and antivirus software on its e-mail servers. Endpoints also have an IPS capability that functions while endpoints are onsite or remote. What other solutions should Randi consider to improve defenses against ransomware?
 
+### Question # 1 - Randi, a security architect, is seeking ways to improve a defense-in-depth to defend against ransomware. Randi's organization employs advanced antimalware on all endpoints and antivirus software on its e-mail servers. Endpoints also have an IPS capability that functions while endpoints are onsite or remote. What other solutions should Randi consider to improve defenses against ransomware?
 Data replication
-
 Spam and phishing e-mail filtering
-
 File integrity monitoring
-
 Firewalls
+Answer: B. 
 
-Answer:
-Randi, a security architect, is seeking ways to improve a defense-in-depth to defend against ransomware. Randi's organization employs advanced antimalware on all endpoints and antivirus software on its e-mail servers. Endpoints also have an IPS capability that functions while endpoints are onsite or remote. What other solutions should Randi consider to improve defenses against ransomware?
-
-Data replication
-
-Spam and phishing e-mail filtering
-
-File integrity monitoring
-
-Firewalls
-
-
-B. The next solution that should be considered is a solution that will block all incoming spam and phishing e-mail messages from reaching end users. This will provide a better defense-in-depth for ransomware since several other good controls are in place.
+The next solution that should be considered is a solution that will block all incoming spam and phishing e-mail messages from reaching end users. This will provide a better defense-in-depth for ransomware since several other good controls are in place.
 
 A, C, and D are incorrect. A is incorrect because data replication is not an adequate defense against ransomware, because files encrypted by ransomware are likely to be replicated onto backup file stores. Instead, offline backup such as magnetic tape or e-vaulting should be used. C is incorrect because file integrity monitoring (FIM) is generally not chosen as a defense against ransomware. D is incorrect because firewalls are not an effective defense against ransomware, unless they also have an IPS component that can detect and block command-and-control traffic.
-Which European law enforces users’ rights to privacy?
 
+### Question # 1 - Which European law enforces users’ rights to privacy?
 GLBA
-
 GDPR
-
 95/46/EC
-
 SB-1386
+Answer: B. 
 
-Answer:
-Which European law enforces users’ rights to privacy?
-
-GLBA
-
-GDPR
-
-95/46/EC
-
-SB-1386
-
-
-B. GDPR, or the European General Data Protection Regulation, which took effect in 2018, provides several means to improve privacy for European residents.
+GDPR, or the European General Data Protection Regulation, which took effect in 2018, provides several means to improve privacy for European residents.
 
 A, C, and D are incorrect. A is incorrect because GLBA is a U.S. law that requires financial services organizations to protect information about its customers. C is incorrect because 95/46/EC, otherwise known as the European Privacy Directive, is the former European privacy law that has been superseded by GDPR. D is incorrect because SB-1386 is the original data breach disclosure law in the state of California.
-Which mechanism does GDPR provide for multinational organizations to make internal transfers of PII?
 
+### Question # 1 - Which mechanism does GDPR provide for multinational organizations to make internal transfers of PII?
 Model clauses
-
 Privacy Shield
-
 Safe Harbor
-
 Binding corporate rules
+Answer: D. 
 
-Answer:
-Which mechanism does GDPR provide for multinational organizations to make internal transfers of PII?
-
-Model clauses
-
-Privacy Shield
-
-Safe Harbor
-
-Binding corporate rules
-
-
-D. Binding corporate rules were established by European privacy laws that permit multinational organizations to perform internal transfers of sensitive information. Typically this is applied to internal human resources information.
+Binding corporate rules were established by European privacy laws that permit multinational organizations to perform internal transfers of sensitive information. Typically this is applied to internal human resources information.
 
 A, B, and C are incorrect. A is incorrect because model clauses are used between organizations to legally obligate them to comply with GDPR and other privacy regulations. B is incorrect because Privacy Shield is used by organizations to register their obligation to comply with GDPR. C is incorrect because Safe Harbor is the now-defunct means for organizations to register their obligation to comply with the former European privacy directive, 95/46/EC.
-Which mechanism provides the legal framework for the transfer of information from Europe to the United States?
 
+### Question # 1 - Which mechanism provides the legal framework for the transfer of information from Europe to the United States?
 Model clauses
-
 Privacy Shield
-
 Safe Harbor
-
 Binding corporate rules
+Answer: B. 
 
-Answer:
-Which mechanism provides the legal framework for the transfer of information from Europe to the United States?
-
-Model clauses
-
-Privacy Shield
-
-Safe Harbor
-
-Binding corporate rules
-
-
-B. The E.U.-U.S. Privacy Shield is the new legal framework for regulating the flow of information from Europe to the United States. Privacy Shield supersedes Safe Harbor, which was invalidated in 2015.
+The E.U.-U.S. Privacy Shield is the new legal framework for regulating the flow of information from Europe to the United States. Privacy Shield supersedes Safe Harbor, which was invalidated in 2015.
 
 A, C, and D are incorrect. A is incorrect because model clauses are a set of legal language used in legal agreements between organizations regarding the protection of PII of European residents. C is incorrect because Safe Harbor was invalidated in 2015. D is incorrect as binding corporate rules are used for the internal transfer of PII within a multinational organization.
-What language is used in legal agreements between organizations regarding the protection of personally identifiable information?
 
+### Question # 1 - What language is used in legal agreements between organizations regarding the protection of personally identifiable information?
 Model clauses
-
 Privacy Shield
-
 Safe Harbor
-
 Binding corporate rules
+Answer: A. 
 
-Answer:
-What language is used in legal agreements between organizations regarding the protection of personally identifiable information?
-
-Model clauses
-
-Privacy Shield
-
-Safe Harbor
-
-Binding corporate rules
-
-
-A. Model clauses are used in legal contracts between organizations regarding the protection of PII of European citizens. Model clauses are a set of specific language included in privacy regulations such as the former European Privacy Directive and the current Global Data Privacy Regulation (GDPR).
+Model clauses are used in legal contracts between organizations regarding the protection of PII of European citizens. Model clauses are a set of specific language included in privacy regulations such as the former European Privacy Directive and the current Global Data Privacy Regulation (GDPR).
 
 B, C, and D are incorrect. B is incorrect because Privacy Shield is a legal framework for the protection of PII, but it does not include language used in contracts between organizations. C is incorrect because Safe Harbor is the former legal framework that is superseded by Privacy Shield. D is incorrect because binding corporate rules are the legal framework for the internal transfer of sensitive information in multinational companies.
-Which mechanism was formally used as the legal framework for the transfer of information from Europe to the United States?
 
+### Question # 1 - Which mechanism was formally used as the legal framework for the transfer of information from Europe to the United States?
 Model clauses
-
 Privacy Shield
-
 Safe Harbor
-
 Binding corporate rules
+Answer: C. 
 
-Answer:
-Which mechanism was formally used as the legal framework for the transfer of information from Europe to the United States?
-
-Model clauses
-
-Privacy Shield
-
-Safe Harbor
-
-Binding corporate rules
-
-
-C. International Safe Harbor Privacy Principles, known primarily as Safe Harbor, is the former framework for the legal transfer of European PII to the United States. Safe Harbor was invalidated in 2015 by the European Court of Justice.
+International Safe Harbor Privacy Principles, known primarily as Safe Harbor, is the former framework for the legal transfer of European PII to the United States. Safe Harbor was invalidated in 2015 by the European Court of Justice.
 
 A, B, and D are incorrect. A is incorrect because model clauses are legal agreement templates used for agreements between organizations. B is incorrect because Privacy Shield is the functional replacement for Safe Harbor. D is incorrect because binding corporate rules are used in the context of intracompany data transfers of PII.
-The internal audit department in a public company recently audited key controls in the vulnerability management process and found that the control “Production servers will be patched within 30 days of receipt of critical patches” fails 30 percent of the time. What finding should the internal audit make?
 
+### Question # 1 - The internal audit department in a public company recently audited key controls in the vulnerability management process and found that the control “Production servers will be patched within 30 days of receipt of critical patches” fails 30 percent of the time. What finding should the internal audit make?
 A new control is needed for vulnerability management.
-
 The control is ineffective and needs to be corrected.
-
 The control should be changed from 30 days to 45 days.
-
 The control should be changed from 30 days to 21 days.
+Answer: B. 
 
-Answer:
-The internal audit department in a public company recently audited key controls in the vulnerability management process and found that the control “Production servers will be patched within 30 days of receipt of critical patches” fails 30 percent of the time. What finding should the internal audit make?
-
-A new control is needed for vulnerability management.
-
-The control is ineffective and needs to be corrected.
-
-The control should be changed from 30 days to 45 days.
-
-The control should be changed from 30 days to 21 days.
-
-
-B. There is a control in place that is not effective. The best remedy is to fix the existing control, which is still reasonable and appropriate.
+There is a control in place that is not effective. The best remedy is to fix the existing control, which is still reasonable and appropriate.
 
 A, C, and D are incorrect. A is incorrect because creating an additional control should not be considered until the existing control is fixed. C and D are incorrect because the SLA for critical patches does not necessarily need to be changed.
-The internal audit department in an organization recently audited the control “User accounts for terminated workers shall be locked or removed within 48 hours of termination” and found that user accounts for terminated workers are not locked or removed 20 percent of the time. What recommendation should internal audit make?
 
+### Question # 1 - The internal audit department in an organization recently audited the control “User accounts for terminated workers shall be locked or removed within 48 hours of termination” and found that user accounts for terminated workers are not locked or removed 20 percent of the time. What recommendation should internal audit make?
 Change the timeframe in the control from 48 hours to 7 days.
-
 Add a new compensating control for monthly review of terminated user accounts.
-
 Add more staff to the team that manages user accounts.
-
 No changes are needed since 20 percent is an acceptable failure rate.
+Answer: B. 
 
-Answer:
-The internal audit department in an organization recently audited the control “User accounts for terminated workers shall be locked or removed within 48 hours of termination” and found that user accounts for terminated workers are not locked or removed 20 percent of the time. What recommendation should internal audit make?
-
-Change the timeframe in the control from 48 hours to 7 days.
-
-Add a new compensating control for monthly review of terminated user accounts.
-
-Add more staff to the team that manages user accounts.
-
-No changes are needed since 20 percent is an acceptable failure rate.
-
-
-B. A compensating control in the form of a periodic access review is the best answer. Periodic access reviews are common and used for this purpose.
+A compensating control in the form of a periodic access review is the best answer. Periodic access reviews are common and used for this purpose.
 
 A, C, and D are incorrect. A is incorrect because seven days is far too long for user accounts to be active after a worker is terminated. C is incorrect because staffing levels are not necessarily the cause of this control failure. D is incorrect because 20 percent is considered too high a failure rate for a terminated user account access control.
-Upon examining the change control process in a SaaS provider organization, a new security manager has discovered that the change control process lacks a security impact procedure. What should the security management recommend for this matter?
 
+### Question # 1 - Upon examining the change control process in a SaaS provider organization, a new security manager has discovered that the change control process lacks a security impact procedure. What should the security management recommend for this matter?
 Systems impacted by a change should be scanned before and after changes are made.
-
 A post-change security review should be added to the change control process.
-
 No change is needed because security is not needed in change control processes.
-
 Add a security impact procedure to the change control process so that the security impact of each proposed change can be identified.
+Answer: D. 
 
-Answer:
-Upon examining the change control process in a SaaS provider organization, a new security manager has discovered that the change control process lacks a security impact procedure. What should the security management recommend for this matter?
-
-Systems impacted by a change should be scanned before and after changes are made.
-
-A post-change security review should be added to the change control process.
-
-No change is needed because security is not needed in change control processes.
-
-Add a security impact procedure to the change control process so that the security impact of each proposed change can be identified.
-
-
-D. The best remedy is the addition of a security impact procedure that is performed for each proposed change. This will help to identify any security-related issues associated with a proposed change that can be discussed prior to the change being made. This is preferable to the alternative: accepting a change that may have one or more security issues that may increase the risk of a security incident.
+The best remedy is the addition of a security impact procedure that is performed for each proposed change. This will help to identify any security-related issues associated with a proposed change that can be discussed prior to the change being made. This is preferable to the alternative: accepting a change that may have one or more security issues that may increase the risk of a security incident.
 
 A, B, and C are incorrect. A is incorrect because not all security-related issues will be manifested in a vulnerability scan. B is incorrect because a security review should be performed prior to a change being made so that an organization can consider modifying the nature of the change so that there is no increase in risk. C is incorrect because security is an important consideration in a change control process.
-A SaaS provider performs penetration tests on its services once per year, and many findings are identified each time. The organization's CISO wants to make changes so that penetration test results will improve. The CISO should recommend all of the following changes except which one?
 
+### Question # 1 - A SaaS provider performs penetration tests on its services once per year, and many findings are identified each time. The organization's CISO wants to make changes so that penetration test results will improve. The CISO should recommend all of the following changes except which one?
 Add a security review of all proposed software changes into the SDLC.
-
 Introduce safe coding training for all software developers.
-
 Increase the frequency of penetration tests from annually to quarterly.
-
 Add the inclusion of security and privacy requirements into the SDLC.
+Answer: C. 
 
-Answer:
-A SaaS provider performs penetration tests on its services once per year, and many findings are identified each time. The organization's CISO wants to make changes so that penetration test results will improve. The CISO should recommend all of the following changes except which one?
-
-Add a security review of all proposed software changes into the SDLC.
-
-Introduce safe coding training for all software developers.
-
-Increase the frequency of penetration tests from annually to quarterly.
-
-Add the inclusion of security and privacy requirements into the SDLC.
-
-
-C. Increasing the frequency of penetration tests is not likely to get to the root cause of the problem, which is the creation of too many security-related software defects.
+Increasing the frequency of penetration tests is not likely to get to the root cause of the problem, which is the creation of too many security-related software defects.
 
 A, B, and D are incorrect. A is incorrect because the addition of a security review for proposed changes is likely to reveal issues that can be corrected prior to development. B is incorrect because safe coding training can help developers better understand coding practices that will result in fewer security defects. D is incorrect because the addition of security and privacy requirements will help better define the nature of new and changed features.
-A SaaS provider performs penetration tests on its services once per year, and many findings are identified each time. What is the best way to report this matter to executive management?
 
+### Question # 1 - A SaaS provider performs penetration tests on its services once per year, and many findings are identified each time. What is the best way to report this matter to executive management?
 Develop a KRI that reports the trend of security defects over time.
-
 Penetration test reports should be distributed to executive management so that they can have a better understanding of the problem.
-
 The executive summary section of penetration test reports should be distributed to executive management.
-
 Report the number of defects found to executive management.
+Answer: A. 
 
-Answer:
-A SaaS provider performs penetration tests on its services once per year, and many findings are identified each time. What is the best way to report this matter to executive management?
-
-Develop a KRI that reports the trend of security defects over time.
-
-Penetration test reports should be distributed to executive management so that they can have a better understanding of the problem.
-
-The executive summary section of penetration test reports should be distributed to executive management.
-
-Report the number of defects found to executive management.
-
-
-A. A key risk indicator (KRI) should be developed that illustrates the risk that security defects make on the organization. An example KRI for this situation could read, “Number of critical software defects introduced into SAAS Product.”
+A key risk indicator (KRI) should be developed that illustrates the risk that security defects make on the organization. An example KRI for this situation could read, “Number of critical software defects introduced into SAAS Product.”
 
 B, C, and D are incorrect. B is incorrect because penetration test reports are quite detailed and technical, and they provide little, if any, business insight to an executive. C is incorrect because even an executive summary section in a penetration test report is unlikely to express business risk in a meaningful way. D is incorrect because the number of defects alone is not a good risk indicator.
-A SaaS provider performs penetration tests on its services once per year, and many findings are identified each time. What is the best KRI that would highlight risks to executives?
 
+### Question # 1 - A SaaS provider performs penetration tests on its services once per year, and many findings are identified each time. What is the best KRI that would highlight risks to executives?
 Number of software vulnerabilities that exist on production SaaS applications
-
 Number of days that critical software vulnerabilities exist on production SaaS applications
-
 Number of vulnerability scans performed on production SaaS applications
-
 Names of developers who introduced the greatest number of security defects onto production SaaS applications
+Answer: B. 
 
-Answer:
-A SaaS provider performs penetration tests on its services once per year, and many findings are identified each time. What is the best KRI that would highlight risks to executives?
-
-Number of software vulnerabilities that exist on production SaaS applications
-
-Number of days that critical software vulnerabilities exist on production SaaS applications
-
-Number of vulnerability scans performed on production SaaS applications
-
-Names of developers who introduced the greatest number of security defects onto production SaaS applications
-
-
-B. The total number of days that unmitigated software defects existed on production applications is the best risk indicator, particularly when tracked over a period of time.
+The total number of days that unmitigated software defects existed on production applications is the best risk indicator, particularly when tracked over a period of time.
 
 A, C, and D are incorrect. A is incorrect because the number of vulnerabilities alone does not sufficiently convey risk; a better depiction of risk is the number of days that unpatched vulnerabilities were present on production systems. C is incorrect because the number of scans does not provide an indication of risk. D is incorrect because a list of offenders is not a key risk indicator.
-The security leader at a SaaS provider has noticed that the number of security defects in the SaaS application is gradually climbing over time to unacceptable levels. What is the best first step the security leader should take?
 
+### Question # 1 - The security leader at a SaaS provider has noticed that the number of security defects in the SaaS application is gradually climbing over time to unacceptable levels. What is the best first step the security leader should take?
 Contact the software development leader and report that more security defects are being created.
-
 Initiate the procurement process for a web application firewall.
-
 Initiate a low-severity security incident.
-
 Create a new risk register entry that describes the problem along with potential fixes.
+Answer: D. 
 
-Answer:
-The security leader at a SaaS provider has noticed that the number of security defects in the SaaS application is gradually climbing over time to unacceptable levels. What is the best first step the security leader should take?
-
-Contact the software development leader and report that more security defects are being created.
-
-Initiate the procurement process for a web application firewall.
-
-Initiate a low-severity security incident.
-
-Create a new risk register entry that describes the problem along with potential fixes.
-
-
-D. When there is a disturbing trend developing, such as an increase in the number of security vulnerabilities being identified, creating an entry in the risk register is the best first step. This will facilitate action in the organization's risk management process that will enable business and technology leaders to discuss the matter and make decisions to manage the risk.
+When there is a disturbing trend developing, such as an increase in the number of security vulnerabilities being identified, creating an entry in the risk register is the best first step. This will facilitate action in the organization's risk management process that will enable business and technology leaders to discuss the matter and make decisions to manage the risk.
 
 A, B, and C are incorrect. A is incorrect because this is not the best first choice. Contacting the development leader is, however, a prudent move so that the development leader will not feel blindsided by later proceedings. B is incorrect because a WAF may not be the best solution here; besides, this represents a unilateral decision on the part of the security leader, when a better approach would be a discussion with stakeholders. C is incorrect because a situation like this is not commonly regarded as a security incident.
-Why is the KRI “Number of days that critical software vulnerabilities exist on production SaaS applications” considered a leading risk indicator?
 
+### Question # 1 - Why is the KRI “Number of days that critical software vulnerabilities exist on production SaaS applications” considered a leading risk indicator?
 This is the first KRI that executives are likely to pay attention to.
-
 This KRI provides a depiction of the probability of a security incident through the exploitation of vulnerabilities. The risk of an incident is elevated with each successive day that unpatched vulnerabilities exist.
-
 Critical software vulnerabilities are the leading cause of security incidents.
-
 The KRI indicates that critical software vulnerabilities are the most likely cause of a future incident.
+Answer: B. 
 
-Answer:
-Why is the KRI “Number of days that critical software vulnerabilities exist on production SaaS applications” considered a leading risk indicator?
-
-This is the first KRI that executives are likely to pay attention to.
-
-This KRI provides a depiction of the probability of a security incident through the exploitation of vulnerabilities. The risk of an incident is elevated with each successive day that unpatched vulnerabilities exist.
-
-Critical software vulnerabilities are the leading cause of security incidents.
-
-The KRI indicates that critical software vulnerabilities are the most likely cause of a future incident.
-
-
-B. A KRI is a leading risk indicator because it portends the likelihood of a future event. The KRI in this question points to the likelihood of a security breach that occurs through the exploitation of a defect in an organization's Internet-facing software application.
+A KRI is a leading risk indicator because it portends the likelihood of a future event. The KRI in this question points to the likelihood of a security breach that occurs through the exploitation of a defect in an organization's Internet-facing software application.
 
 A, C, and D are incorrect. A is incorrect because leading risk indicators are so-named because they help predict the likelihood of future events. C is incorrect because the meaning of a leading risk indicator is related to the likelihood of a specific future event. The fact that the KRI in this question is related to a leading cause of incidents is coincidental. D is incorrect because the KRI does not attempt to identify the most likely cause of a future incident.
-Which is the best method for reporting risk matters to senior management?
 
+### Question # 1 - Which is the best method for reporting risk matters to senior management?
 Sending after-action reviews of security incidents
-
 Sending the outcomes of risk treatment decisions
-
 Periodic briefing on the contents of the risk register
-
 Sending memos each time a new risk is identified
+Answer: C. 
 
-Answer:
-Which is the best method for reporting risk matters to senior management?
-
-Sending after-action reviews of security incidents
-
-Sending the outcomes of risk treatment decisions
-
-Periodic briefing on the contents of the risk register
-
-Sending memos each time a new risk is identified
-
-
-C. The best method available here is to provide a summary briefing on the contents of the risk register. Providing a summary overview of the items of the risk register will enable the leadership team to focus on the key areas or emerging risks that need their attention. This will help senior management better understand the entire catalog of unmanaged risks in the organization.
+The best method available here is to provide a summary briefing on the contents of the risk register. Providing a summary overview of the items of the risk register will enable the leadership team to focus on the key areas or emerging risks that need their attention. This will help senior management better understand the entire catalog of unmanaged risks in the organization.
 
 A, B, and D are incorrect. A is incorrect because risks often exist, apart from security incidents. B is incorrect because senior management should participate in risk treatment decisions, not merely be informed about them (implying that others are making those decisions). D is incorrect because sending memos is unstructured, and memos may not always be read. Further, a briefing from the risk register is much better, because this is an interactive event where senior management can ask questions about risks in the risk register.
-Janice has worked in the Telco Company for many years and is now the CISO. For several years, Janice has recognized that the engineering organization contacts information security just prior to the release of new products and features so that security can be added in at the end. Now that Janice is the CISO, what is the best long-range solution to this problem?
 
+### Question # 1 - Janice has worked in the Telco Company for many years and is now the CISO. For several years, Janice has recognized that the engineering organization contacts information security just prior to the release of new products and features so that security can be added in at the end. Now that Janice is the CISO, what is the best long-range solution to this problem?
 Introduce security at the conceptual, requirements, and design steps in the product development process.
-
 Train engineering in the use of vulnerability scanning tools so that they can find and fix vulnerabilities on their own.
-
 Add security requirements to other requirements that are developed in product development projects.
-
 There is no problem to fix: it is appropriate for engineering to contact security prior to product release to add in necessary security controls.
+Answer: A. 
 
-Answer:
-Janice has worked in the Telco Company for many years and is now the CISO. For several years, Janice has recognized that the engineering organization contacts information security just prior to the release of new products and features so that security can be added in at the end. Now that Janice is the CISO, what is the best long-range solution to this problem?
-
-Introduce security at the conceptual, requirements, and design steps in the product development process.
-
-Train engineering in the use of vulnerability scanning tools so that they can find and fix vulnerabilities on their own.
-
-Add security requirements to other requirements that are developed in product development projects.
-
-There is no problem to fix: it is appropriate for engineering to contact security prior to product release to add in necessary security controls.
-
-
-A. The best long-term solution is the introduction of appropriate security activities throughout the product development lifecycle, starting at the conceptual stage where new products and features are initially discussed. Security steps at the requirements and design stages will help ensure that products are secure by design.
+The best long-term solution is the introduction of appropriate security activities throughout the product development lifecycle, starting at the conceptual stage where new products and features are initially discussed. Security steps at the requirements and design stages will help ensure that products are secure by design.
 
 B, C, and D are incorrect. B is incorrect because vulnerability scanning will fail to identify many types of security problems. C is incorrect because adding security requirements alone, while helpful, is not the best choice. D is incorrect because responsible organizations ensure that their products are secure by design.
-Janice has worked in the Telco Company for many years and is now the CISO. For several years, Janice has recognized that the engineering organization contacts information security just prior to the release of new products and features so that security can be added in at the end. Now that Janice is the CISO, what is the best first step for Janice to take?
 
+### Question # 1 - Janice has worked in the Telco Company for many years and is now the CISO. For several years, Janice has recognized that the engineering organization contacts information security just prior to the release of new products and features so that security can be added in at the end. Now that Janice is the CISO, what is the best first step for Janice to take?
 Initiate a low-severity security incident.
-
 Create a new risk register entry that describes the problem along with potential fixes.
-
 Initiate a high-severity security incident.
-
 Write a memo to the leader of the engineering organization requesting that security be added to the product development lifecycle.
+Answer: B. 
 
-Answer:
-Janice has worked in the Telco Company for many years and is now the CISO. For several years, Janice has recognized that the engineering organization contacts information security just prior to the release of new products and features so that security can be added in at the end. Now that Janice is the CISO, what is the best first step for Janice to take?
-
-Initiate a low-severity security incident.
-
-Create a new risk register entry that describes the problem along with potential fixes.
-
-Initiate a high-severity security incident.
-
-Write a memo to the leader of the engineering organization requesting that security be added to the product development lifecycle.
-
-
-B. Creation of a risk register entry is the best first step. Presuming that a cross-functional cybersecurity council exists, the next step will be discussion of the matter that will lead to an eventual decision.
+Creation of a risk register entry is the best first step. Presuming that a cross-functional cybersecurity council exists, the next step will be discussion of the matter that will lead to an eventual decision.
 
 A, C, and D are incorrect. A and C are incorrect because initiation of a security incident is not an appropriate response. D is incorrect because a wider conversation should be conducted by cybersecurity steering committee members.
-The term “insider threat” includes all of the following except which one?
 
+### Question # 1 - The term “insider threat” includes all of the following except which one?
 End users who are ignorant and make unwise decisions
-
 Employees who have a grudge against their employer
-
 Customers who attempt to break into systems while onsite
-
 End users who are doing the right thing but make mistakes
+Answer: C. 
 
-Answer:
-The term “insider threat” includes all of the following except which one?
-
-End users who are ignorant and make unwise decisions
-
-Employees who have a grudge against their employer
-
-Customers who attempt to break into systems while onsite
-
-End users who are doing the right thing but make mistakes
-
-
-C. Customers, even while onsite, are not considered insiders.
+Customers, even while onsite, are not considered insiders.
 
 A, B, and D are incorrect. Each of these is considered an insider threat.
-Examples of employees gone rogue include all of the following except which one?
 
+### Question # 1 - Examples of employees gone rogue include all of the following except which one?
 A developer who inserts a time bomb in application source code
-
 A securities trader who makes unauthorized trades resulting in huge losses
-
 An engineer who locks co-workers out of the network because they are not competent
-
 A systems engineer who applies security patches that cause applications to malfunction
+Answer: D. 
 
-Answer:
-Examples of employees gone rogue include all of the following except which one?
-
-A developer who inserts a time bomb in application source code
-
-A securities trader who makes unauthorized trades resulting in huge losses
-
-An engineer who locks co-workers out of the network because they are not competent
-
-A systems engineer who applies security patches that cause applications to malfunction
-
-
-D. The systems engineer who applies patches to fix feature or security defects is the best choice, because there is little or no sign of malice. In this example, the change control process should be improved so that there is an opportunity to test software applications in a nonproduction environment prior to applying patches to production.
+The systems engineer who applies patches to fix feature or security defects is the best choice, because there is little or no sign of malice. In this example, the change control process should be improved so that there is an opportunity to test software applications in a nonproduction environment prior to applying patches to production.
 
 A, B, and C are incorrect. Each of these is an example of an employee who has gone rogue and is consequently harming the organization.
-Janice, a new CISO in a healthcare delivery organization, has discovered that virtually all employees are local administrators on their laptop/desktop computers. This is an example of what?
 
+### Question # 1 - Janice, a new CISO in a healthcare delivery organization, has discovered that virtually all employees are local administrators on their laptop/desktop computers. This is an example of what?
 Insider threat
-
 Vulnerability
-
 Threat
-
 Incident
+Answer: B. 
 
-Answer:
-Janice, a new CISO in a healthcare delivery organization, has discovered that virtually all employees are local administrators on their laptop/desktop computers. This is an example of what?
-
-Insider threat
-
-Vulnerability
-
-Threat
-
-Incident
-
-
-B. The matter of end users being local administrators means that they have administrative control of the computers they use, namely their laptop and/or desktop computers. This means they can install software and security patches and change the configuration of the operating system. This also means that malware introduced by the user onto the system will probably be able to run with administrative privileges, which may result in significantly more harm to the system and the organization.
+The matter of end users being local administrators means that they have administrative control of the computers they use, namely their laptop and/or desktop computers. This means they can install software and security patches and change the configuration of the operating system. This also means that malware introduced by the user onto the system will probably be able to run with administrative privileges, which may result in significantly more harm to the system and the organization.
 
 A, C, and D are incorrect. A is incorrect because this configuration setting is not, by itself, an insider threat. However, an insider threat situation can be made worse through end users having local administrative privileges. C is incorrect because this is not a threat, but a vulnerability (these terms are often misused). D is incorrect because this is not an incident. However, an incident is somewhat more likely to occur and more likely to have greater impact because end users have local administrative privileges.
-An end user in an organization opened an attachment in e-mail, which resulted in ransomware running on the end user's workstation. This is an example of what?
 
+### Question # 1 - An end user in an organization opened an attachment in e-mail, which resulted in ransomware running on the end user's workstation. This is an example of what?
 Incident
-
 Vulnerability
-
 Threat
-
 Insider threat
+Answer: A. 
 
-Answer:
-An end user in an organization opened an attachment in e-mail, which resulted in ransomware running on the end user's workstation. This is an example of what?
-
-Incident
-
-Vulnerability
-
-Threat
-
-Insider threat
-
-
-A. Ransomware executing on an end user's workstation is considered an incident. It may have been allowed to execute because of one or more vulnerabilities.
+Ransomware executing on an end user's workstation is considered an incident. It may have been allowed to execute because of one or more vulnerabilities.
 
 B, C, and D are incorrect. B is incorrect because a vulnerability is a configuration setting or a software defect that can, if exploited, result in an incident. C is incorrect because ransomware, by itself, is considered a threat, but ransomware executing on a system is considered an incident. D is incorrect because this is not considered an insider threat. However, users having poor judgment (which may include clicking on phishing messages) is considered an insider threat.
-What is the purpose of the third-party risk management process?
 
+### Question # 1 - What is the purpose of the third-party risk management process?
 Identify risks that can be transferred to third parties.
-
 Identify a party responsible for a security breach.
-
 Identify a party that can perform risk assessments.
-
 Identify and treat risks associated with the use of third-party services.
-
-Answer:
-What is the purpose of the third-party risk management process?
-
-Identify risks that can be transferred to third parties.
-
-Identify a party responsible for a security breach.
-
-Identify a party that can perform risk assessments.
-
-Identify and treat risks associated with the use of third-party services.
-
-
-D. Third-party risk management encompasses processes and procedures for identifying risks associated with third-party service providers and suppliers; assessments of third parties enable management to make decisions regarding whether to do business with specific third parties and under what conditions.
+Answer: D. Third-party risk management encompasses processes and procedures for identifying risks associated with third-party service providers and suppliers; assessments of third parties enable management to make decisions regarding whether to do business with specific third parties and under what conditions.
 
 A, B, and C are incorrect. A is incorrect because third-party risk management is not related to risk transfer. B is incorrect because third-party risk management is not involved in security breach response and investigation. C is incorrect because third-party risk management is not related to the process of performing internal risk assessments.
-What is the correct sequence of events when onboarding a third-party service provider?
 
+### Question # 1 - What is the correct sequence of events when onboarding a third-party service provider?
 Contract negotiation, examine services, identify risks, risk treatment
-
 Examine services, identify risks, risk treatment, contract negotiation
-
 Examine services, contract negotiation, identify risks, risk treatment
-
 Examine services, identify risks, risk treatment
-
-Answer:
-What is the correct sequence of events when onboarding a third-party service provider?
-
-Contract negotiation, examine services, identify risks, risk treatment
-
-Examine services, identify risks, risk treatment, contract negotiation
-
-Examine services, contract negotiation, identify risks, risk treatment
-
-Examine services, identify risks, risk treatment
-
-
-B. The best sequence here is to examine the services offered by the third party, identify risks associated with doing service with the third party, make decisions about what to do about these risks, and enter into contract negotiations.
+Answer: B. The best sequence here is to examine the services offered by the third party, identify risks associated with doing service with the third party, make decisions about what to do about these risks, and enter into contract negotiations.
 
 A, C, and D are incorrect. A and C are incorrect because contract negotiation should not take place prior to identifying risks that may need to be addressed in a contract. D is incorrect because contract negotiation is not included.
-A campaign by a cybercriminal to perform reconnaissance on a target organization and develop specialized tools to build a long-term presence in the organization's environment is known as what?
 
+### Question # 1 - A campaign by a cybercriminal to perform reconnaissance on a target organization and develop specialized tools to build a long-term presence in the organization's environment is known as what?
 Watering hole attack
-
 Hacktivism
-
 Advanced persistent campaign (APC)
-
 Advanced persistent threat (APT)
+D. 
 
-Answer:
-A campaign by a cybercriminal to perform reconnaissance on a target organization and develop specialized tools to build a long-term presence in the organization's environment is known as what?
-
-Watering hole attack
-
-Hacktivism
-
-Advanced persistent campaign (APC)
-
-Advanced persistent threat (APT)
-
-
-D. A long-term campaign of patient reconnaissance, development of tools, and establishment of a long-term quiet presence inside an organization's environment is known as an advanced persistent threat (APT). It is “advanced” on account of the reconnaissance and the development of an intrusion strategy with specialized tools; it is “persistent” by design, so that the intruder can maintain a long-term presence in the environment; it is a “threat” because the criminal actor is performing all of this to reach a long-term objective, whether the acquisition or destruction of sensitive information or the disruption of the organization's operations.
+A long-term campaign of patient reconnaissance, development of tools, and establishment of a long-term quiet presence inside an organization's environment is known as an advanced persistent threat (APT). It is “advanced” on account of the reconnaissance and the development of an intrusion strategy with specialized tools; it is “persistent” by design, so that the intruder can maintain a long-term presence in the environment; it is a “threat” because the criminal actor is performing all of this to reach a long-term objective, whether the acquisition or destruction of sensitive information or the disruption of the organization's operations.
 
 A, B, and C are incorrect. A is incorrect because a watering hole attack is an attack on an organization via a compromised website that will automatically download malware onto visitors’ systems. B is incorrect because hacktivism refers to an ideology wherein an attacker seeks to expose or disrupt an organization for ideological reasons. C is incorrect because the term “advanced persistent campaign” is not in use.
-Joel, a CISO in a manufacturing company, has identified a new cybersecurity-related risk to the business and is discussing it privately with the chief risk officer (CRO). The CRO has asked Joel not to put this risk in the risk register. What form of risk treatment does this represent?
 
+### Question # 1 - Joel, a CISO in a manufacturing company, has identified a new cybersecurity-related risk to the business and is discussing it privately with the chief risk officer (CRO). The CRO has asked Joel not to put this risk in the risk register. What form of risk treatment does this represent?
 This is not risk treatment, but the avoidance of managing the risk altogether.
-
 This is risk avoidance, where the organization elects to avoid the risk altogether.
-
 This is risk transfer, as the organization has implicitly transferred this risk to insurance.
-
 This is risk acceptance, as the organization is accepting the risk as-is.
+Answer: A. 
 
-Answer:
-Joel, a CISO in a manufacturing company, has identified a new cybersecurity-related risk to the business and is discussing it privately with the chief risk officer (CRO). The CRO has asked Joel not to put this risk in the risk register. What form of risk treatment does this represent?
-
-This is not risk treatment, but the avoidance of managing the risk altogether.
-
-This is risk avoidance, where the organization elects to avoid the risk altogether.
-
-This is risk transfer, as the organization has implicitly transferred this risk to insurance.
-
-This is risk acceptance, as the organization is accepting the risk as-is.
-
-
-A. The deliberate “burying” of a risk is not risk treatment, but the refusal to deal with the risk altogether. Although there may be legitimate reasons for this action, based on the information here, there is an appearance of negligence on the part of the CRO.
+The deliberate “burying” of a risk is not risk treatment, but the refusal to deal with the risk altogether. Although there may be legitimate reasons for this action, based on the information here, there is an appearance of negligence on the part of the CRO.
 
 B, C, and D are incorrect. B is incorrect because risk avoidance is a formal decision wherein the organization will discontinue the activity that manifests the identified risk. C is incorrect because there is no indication in this question that cyber insurance will assume this risk. D is incorrect because formal risk acceptance involves the use of the risk management lifecycle that includes the risk being recorded in the risk ledger, followed by analysis and a risk treatment decision.
-Which of the following factors in risk analysis is the most difficult to determine?
 
+### Question # 1 - Which of the following factors in risk analysis is the most difficult to determine?
 Exposure factor
-
 Single-loss expectancy
-
 Event probability
-
 Event impact
+Answer: C. 
 
-Answer:
-Which of the following factors in risk analysis is the most difficult to determine?
-
-Exposure factor
-
-Single-loss expectancy
-
-Event probability
-
-Event impact
-
-
-C. Event probability is the most difficult of these values to determine accurately, particularly for high-impact events. Because event probability is so difficult to determine, much risk analysis work performed is qualitative in nature.
+Event probability is the most difficult of these values to determine accurately, particularly for high-impact events. Because event probability is so difficult to determine, much risk analysis work performed is qualitative in nature.
 
 A, B, and D are incorrect. A is incorrect because exposure factor (which is calculated as a percentage of an asset's value) is relatively easy to determine. B is incorrect because single-loss expectancy (which is calculated as asset value times exposure factor) is relatively easy to determine. D is incorrect because event impact (formally known as event cost) is not altogether difficult to determine.
-An estimate on the number of times that a threat might occur in a given year is known as what?
 
+### Question # 1 - An estimate on the number of times that a threat might occur in a given year is known as what?
 Annualized loss expectancy (ALE)
-
 Annualized rate of occurrence (ARO)
-
 Exposure factor (EF)
-
 Annualized exposure factor (AEF)
+Answer: B. 
 
-Answer:
-An estimate on the number of times that a threat might occur in a given year is known as what?
-
-Annualized loss expectancy (ALE)
-
-Annualized rate of occurrence (ARO)
-
-Exposure factor (EF)
-
-Annualized exposure factor (AEF)
-
-
-B. Annualized rate of occurrence (ARO) is defined as an estimate of the number of times that a threat will occur per year.
+Annualized rate of occurrence (ARO) is defined as an estimate of the number of times that a threat will occur per year.
 
 A, C, and D are incorrect. A is incorrect because annualized loss expectancy (ALE) is defined as the annualized rate of occurrence (ARO) times the single loss expectancy (SLE). C is incorrect as exposure factor (EF) is the loss that represents a percentage of an asset's value (because in some cases, an asset is not completely destroyed). D is incorrect because there is no such term is annualized exposure factor (AEF).
-Which is the best method for prioritizing risks and risk treatment?
 
+### Question # 1 - Which is the best method for prioritizing risks and risk treatment?
 Threat event probability times asset value, from highest to lowest
-
 Threat event probability, followed by asset value
-
 Professional judgment
-
 A combination of threat event probability, asset value, and professional judgment
+Answer: D. 
 
-Answer:
-Which is the best method for prioritizing risks and risk treatment?
-
-Threat event probability times asset value, from highest to lowest
-
-Threat event probability, followed by asset value
-
-Professional judgment
-
-A combination of threat event probability, asset value, and professional judgment
-
-
-D. The best method for prioritizing risks and risk treatment is to examine the probability of event occurrence (difficult though that may be), asset value, and impact to the organization. Professional judgment plays a big role as well because factors such as business reputation are difficult to quantify.
+The best method for prioritizing risks and risk treatment is to examine the probability of event occurrence (difficult though that may be), asset value, and impact to the organization. Professional judgment plays a big role as well because factors such as business reputation are difficult to quantify.
 
 A, B, and C are incorrect. A is incorrect because this approach allows no room for professional judgment. B is incorrect because there is no logical sequence based on these two items that are measured differently. C is incorrect because professional judgment alone risks the failure to consider high-value assets, high impact, and high probability of occurrence.
-Joel is a security manager in a large manufacturing company. The company uses primarily Microsoft, Cisco, and Oracle products. Joel subscribes to security bulletins from these three vendors. Which of the following statements best describes the adequacy of these advisory sources?
 
+### Question # 1 - Joel is a security manager in a large manufacturing company. The company uses primarily Microsoft, Cisco, and Oracle products. Joel subscribes to security bulletins from these three vendors. Which of the following statements best describes the adequacy of these advisory sources?
 Joel should also subscribe to nonvendor security sources such as US-CERT and InfraGard.
-
 Joel's security advisory sources are adequate.
-
 Joel should discontinue vendor sources and subscribe to nonvendor security sources such as US-CERT and InfraGard.
-
 Joel should focus on threat hunting in the dark web.
+Answer: A. 
 
-Answer:
-Joel is a security manager in a large manufacturing company. The company uses primarily Microsoft, Cisco, and Oracle products. Joel subscribes to security bulletins from these three vendors. Which of the following statements best describes the adequacy of these advisory sources?
-
-Joel should also subscribe to nonvendor security sources such as US-CERT and InfraGard.
-
-Joel's security advisory sources are adequate.
-
-Joel should discontinue vendor sources and subscribe to nonvendor security sources such as US-CERT and InfraGard.
-
-Joel should focus on threat hunting in the dark web.
-
-
-A. The best set of security advisories includes those from all IT product vendors, as well as a number of nonvendor sources such as US-CERT and InfraGard.
+The best set of security advisories includes those from all IT product vendors, as well as a number of nonvendor sources such as US-CERT and InfraGard.
 
 B, C, and D are incorrect. B is incorrect because Joel should also have at least one good nonvendor source such as US-CERT. C is incorrect because it is important to continue to receive vendor advisories. D is incorrect because “threat hunting on the dark web” is not a real activity.
-The primary advantage of automatic controls versus manual controls includes all of the following except which one?
 
+### Question # 1 - The primary advantage of automatic controls versus manual controls includes all of the following except which one?
 Automatic controls are generally more reliable than manual controls.
-
 Automatic controls are less expensive than manual controls.
-
 Automatic controls are generally more consistent than manual controls.
-
 Automatic controls generally perform better in audits than manual controls.
+Answer: B. 
 
-Answer:
-The primary advantage of automatic controls versus manual controls includes all of the following except which one?
-
-Automatic controls are generally more reliable than manual controls.
-
-Automatic controls are less expensive than manual controls.
-
-Automatic controls are generally more consistent than manual controls.
-
-Automatic controls generally perform better in audits than manual controls.
-
-
-B. Automatic controls are not necessarily less expensive than manual controls; in some cases, they may be considerably more expensive than manual controls.
+Automatic controls are not necessarily less expensive than manual controls; in some cases, they may be considerably more expensive than manual controls.
 
 A, C, and D are incorrect. A is incorrect because automated controls are typically more reliable and accurate than manual controls. C is incorrect because automated controls are typically more consistent than manual controls. D is incorrect because automated controls generally perform better in audits.
-Which of the following statements about PCI-DSS compliance is true?
 
+### Question # 1 - Which of the following statements about PCI-DSS compliance is true?
 Only organizations that store, transfer, or process more than 6 million credit card numbers are required to undergo an annual PCI audit.
-
 Service providers are not required to submit an attestation of compliance (AOC) annually.
-
 Merchants that process fewer than 15,000 credit card transactions are not required to submit an attestation of compliance (AOC).
-
 All organizations that store, transfer, or process credit card data are required to submit an attestation of compliance (AOC) annually.
+Answer: D. 
 
-Answer:
-Which of the following statements about PCI-DSS compliance is true?
-
-Only organizations that store, transfer, or process more than 6 million credit card numbers are required to undergo an annual PCI audit.
-
-Service providers are not required to submit an attestation of compliance (AOC) annually.
-
-Merchants that process fewer than 15,000 credit card transactions are not required to submit an attestation of compliance (AOC).
-
-All organizations that store, transfer, or process credit card data are required to submit an attestation of compliance (AOC) annually.
-
-
-D. All organizations that store, process, or transmit credit card data are required to submit an attestation of compliance (AOC) annually to their acquiring bank, processing bank, or card brand.
+All organizations that store, process, or transmit credit card data are required to submit an attestation of compliance (AOC) annually to their acquiring bank, processing bank, or card brand.
 
 A, B, and C are incorrect. A is incorrect because some organizations that process fewer credit card numbers are also required to undergo annual PCI audits—for example, organizations that have suffered a breach may be required to undergo audits. B is incorrect because service providers are required to submit attestations of compliance (AOC) annually. C is incorrect because all merchants are required to submit attestations of compliance (AOC).
-A security leader wants to commission an outside company to assess the organization's performance against the NIST SP800-53 control framework to see which controls the organization is operating properly and which controls require improvement. What kind of an assessment does the security leader need to commission?
 
+### Question # 1 - A security leader wants to commission an outside company to assess the organization's performance against the NIST SP800-53 control framework to see which controls the organization is operating properly and which controls require improvement. What kind of an assessment does the security leader need to commission?
 Controls risk assessment
-
 Controls maturity assessment
-
 Controls gap assessment
-
 Risk assessment
+Answer: C. 
 
-Answer:
-A security leader wants to commission an outside company to assess the organization's performance against the NIST SP800-53 control framework to see which controls the organization is operating properly and which controls require improvement. What kind of an assessment does the security leader need to commission?
-
-Controls risk assessment
-
-Controls maturity assessment
-
-Controls gap assessment
-
-Risk assessment
-
-
-C. The organization needs to commission a controls gap assessment, which will reveal which controls are being operated properly and which ones require improvement of some kind.
+The organization needs to commission a controls gap assessment, which will reveal which controls are being operated properly and which ones require improvement of some kind.
 
 A, B, and D are incorrect. A is incorrect because a risk assessment will not provide the desired results. B is incorrect because a maturity assessment will not provide the desired results. D is incorrect because a risk assessment will not provide the desired results.
-An organization needs to better understand how well organized its operations are from a controls point of view. What kind of an assessment will best reveal this?
 
+### Question # 1 - An organization needs to better understand how well organized its operations are from a controls point of view. What kind of an assessment will best reveal this?
 Controls risk assessment
-
 Controls maturity assessment
-
 Controls gap assessment
-
 Risk assessment
+Answer: B. 
 
-Answer:
-An organization needs to better understand how well organized its operations are from a controls point of view. What kind of an assessment will best reveal this?
-
-Controls risk assessment
-
-Controls maturity assessment
-
-Controls gap assessment
-
-Risk assessment
-
-
-B. A controls maturity assessment will reveal, control by control, the level of organization and consistency of each control in the organization.
+A controls maturity assessment will reveal, control by control, the level of organization and consistency of each control in the organization.
 
 A, C, and D are incorrect. A is incorrect because a controls risk assessment will not provide the desired results. C is incorrect because a controls gap assessment will not provide the desired results. D is incorrect because a risk assessment will not provide the desired results.
-An organization needs to better understand which of its controls are more important than others. What kind of an assessment will best reveal this?
 
+### Question # 1 - An organization needs to better understand which of its controls are more important than others. What kind of an assessment will best reveal this?
 Controls risk assessment
-
 Controls maturity assessment
-
 Controls gap assessment
-
 Risk assessment
+Answer: A. 
 
-Answer:
-An organization needs to better understand which of its controls are more important than others. What kind of an assessment will best reveal this?
-
-Controls risk assessment
-
-Controls maturity assessment
-
-Controls gap assessment
-
-Risk assessment
-
-
-A. A controls risk assessment will reveal which controls have greater risk associated with them. This will help the organization better understand which controls warrant greater attention and scrutiny.
+A controls risk assessment will reveal which controls have greater risk associated with them. This will help the organization better understand which controls warrant greater attention and scrutiny.
 
 B, C, and D are incorrect. B is incorrect because a controls maturity assessment will not provide the desired results. C is incorrect because a controls gap assessment will not provide the desired results. D is incorrect because a risk assessment will not provide the desired results.
-An organization needs to better understand whether its control framework is adequately protecting the organization from known and unknown hazards. What kind of an assessment will best reveal this?
 
+### Question # 1 - An organization needs to better understand whether its control framework is adequately protecting the organization from known and unknown hazards. What kind of an assessment will best reveal this?
 Controls risk assessment
-
 Controls maturity assessment
-
 Controls gap assessment
-
 Risk assessment
+Answer: D. 
 
-Answer:
-An organization needs to better understand whether its control framework is adequately protecting the organization from known and unknown hazards. What kind of an assessment will best reveal this?
-
-Controls risk assessment
-
-Controls maturity assessment
-
-Controls gap assessment
-
-Risk assessment
-
-
-D. A risk assessment will best help the organization understand the entire array of risks and potential impacts facing the organization and whether its control framework is adequately covering them.
+A risk assessment will best help the organization understand the entire array of risks and potential impacts facing the organization and whether its control framework is adequately covering them.
 
 A, B, and C are incorrect. A is incorrect because a controls risk assessment (the next best choice) will not provide the desired results. B is incorrect because a controls maturity assessment will not provide the desired results. C is incorrect because a controls gap assessment will not provide the desired results.
-An organization recently suffered a significant security incident. The organization was surprised by the incident and believed that this kind of an event would not occur. To avoid a similar event in the future, what should the organization do next?
 
+### Question # 1 - An organization recently suffered a significant security incident. The organization was surprised by the incident and believed that this kind of an event would not occur. To avoid a similar event in the future, what should the organization do next?
 Commission an enterprise-wide risk assessment.
-
 Commission a controls maturity assessment.
-
 Commission an internal and external penetration test.
-
 Commission a controls gap assessment.
+Answer: A. 
 
-Answer:
-An organization recently suffered a significant security incident. The organization was surprised by the incident and believed that this kind of an event would not occur. To avoid a similar event in the future, what should the organization do next?
-
-Commission an enterprise-wide risk assessment.
-
-Commission a controls maturity assessment.
-
-Commission an internal and external penetration test.
-
-Commission a controls gap assessment.
-
-
-A. An enterprise-wide risk assessment is the best option here so that risks of all kinds can be identified and remedies suggested for mitigating them.
+An enterprise-wide risk assessment is the best option here so that risks of all kinds can be identified and remedies suggested for mitigating them.
 
 B, C, and D are incorrect. B is incorrect because it's possible that there are missing controls; a controls maturity assessment takes too narrow a view here and focuses only on existing controls, when the problem might be controls that are nonexistent. C is incorrect because the nature of the incident is unknown and may not be related to technical vulnerabilities that a penetration test would reveal (for example, it may have been phishing or fraud). D is incorrect because a controls gap assessment takes too narrow a view here and focuses only on existing controls, when the problem might be controls that are nonexistent.
-Stephen is a security leader for a SaaS company that provides file storage services to corporate clients. Stephen is examining proposed contract language from a prospective customer that is requiring the SaaS company implement “best practices” for protecting customer information. How should Stephen respond to this contract language?
 
+### Question # 1 - Stephen is a security leader for a SaaS company that provides file storage services to corporate clients. Stephen is examining proposed contract language from a prospective customer that is requiring the SaaS company implement “best practices” for protecting customer information. How should Stephen respond to this contract language?
 Stephen should accept the contract language as-is.
-
 Stephen should not accept a customer's contract but instead use his company's contract language.
-
 Stephen should change the language from “best practices” to “industry-standard practices.”
-
 Stephen should remove the security-related language as it is unnecessary for a SaaS environment.
+Answer: C. 
 
-Answer:
-Stephen is a security leader for a SaaS company that provides file storage services to corporate clients. Stephen is examining proposed contract language from a prospective customer that is requiring the SaaS company implement “best practices” for protecting customer information. How should Stephen respond to this contract language?
-
-Stephen should accept the contract language as-is.
-
-Stephen should not accept a customer's contract but instead use his company's contract language.
-
-Stephen should change the language from “best practices” to “industry-standard practices.”
-
-Stephen should remove the security-related language as it is unnecessary for a SaaS environment.
-
-
-C. The term “best practices” is good to impose on others but bad to accept from others. “Best practices” in this case implies that Stephen's company will use the best available processes and tools that are superior to all others. Instead, a phrase such as “industry-standard practices” should be used.
+The term “best practices” is good to impose on others but bad to accept from others. “Best practices” in this case implies that Stephen's company will use the best available processes and tools that are superior to all others. Instead, a phrase such as “industry-standard practices” should be used.
 
 A, B, and D are incorrect. A is incorrect because few companies can afford to truly implement “best practices” controls, particularly a SaaS company that stores information. B is incorrect because it is commonplace to accept a customer's contract (just as it is commonplace to use one's own). D is incorrect because complete removal of the security language will likely be unacceptable by the customer.
-Security analysts in the SOC have noticed that the organization's firewall is being scanned by a port scanner in a hostile country. Security analysts have notified the security manager. How should the security manager respond to this matter?
 
+### Question # 1 - Security analysts in the SOC have noticed that the organization's firewall is being scanned by a port scanner in a hostile country. Security analysts have notified the security manager. How should the security manager respond to this matter?
 Declare a high-severity security event.
-
 Declare a low-severity security event.
-
 Take no action.
-
 Direct the SOC to blackhole the scan's originating IP address.
+Answer: D. 
 
-Answer:
-Security analysts in the SOC have noticed that the organization's firewall is being scanned by a port scanner in a hostile country. Security analysts have notified the security manager. How should the security manager respond to this matter?
-
-Declare a high-severity security event.
-
-Declare a low-severity security event.
-
-Take no action.
-
-Direct the SOC to blackhole the scan's originating IP address.
-
-
-D. The best course of action is to blackhole the IP address that is the origination of the port scan. However, even this may not be necessary because a port scan is not, by itself, a serious matter. However, it may represent reconnaissance by an intruder that is targeting the organization.
+The best course of action is to blackhole the IP address that is the origination of the port scan. However, even this may not be necessary because a port scan is not, by itself, a serious matter. However, it may represent reconnaissance by an intruder that is targeting the organization.
 
 A, B, and C are incorrect. A is incorrect because a port scan is not a high-severity security matter. B is incorrect because this is not the best answer; however, some organizations might consider a port scan a low-level security incident and respond in some way, such as blackholing the IP address. C is incorrect because taking no action at all is not the best course of action.
 A security leader recently commissioned a controls maturity assessment and has received the final report. Control maturity in the assessment is classified as “Initial,” “Managed,” “Defined,” “Quantitatively Managed,” and “Optimized.” What maturity scale was used in this maturity assessment?
