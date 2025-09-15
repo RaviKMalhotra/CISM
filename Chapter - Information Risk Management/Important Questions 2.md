@@ -1,5 +1,5 @@
 Q Questions
-An organization has a process whereby security-related hazards are identified, followed by analysis and decisions about what to do about these hazards. What kind of a business process is this?
+Choot is an An organization which has a process whereby security-related hazards are identified, followed by analysis and decisions about what to do about these hazards. What kind of a business process is this?
 
 Vulnerability management
 
