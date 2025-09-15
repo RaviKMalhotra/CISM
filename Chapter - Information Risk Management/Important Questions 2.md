@@ -1,31 +1,24 @@
-Q Questions
-Choot is an An organization which has a process whereby security-related hazards are identified, followed by analysis and decisions about what to do about these hazards. What kind of a business process is this?
+### Questions # 1 - Choot is an An organization which has a process whereby security-related hazards are identified, followed by analysis and decisions about what to do about these hazards. What kind of a business process is this?             
+A. Vulnerability management             
+B. Risk treatment                
+C. Risk management               
+D. Risk assessment             
+Answer: C.          
 
-Vulnerability management
+The risk management process consists of risk assessments, analysis about risks that are identified by risk assessment, followed by discussions, and finally decisions about what to do about these risks.
 
-Risk treatment
+A, B, and D are incorrect. A is incorrect because the steps in the question do not describe a vulnerability management process. B is incorrect because the steps in the question do not describe a risk treatment process. However, risk treatment is a part of the risk management process. D is incorrect because the steps in the question do not describe a risk management process. Risk assessment is a part of the risk management process.
 
-Risk management
+### Question # 2 - What is the purpose of a cyber-risk management program in an organization?            
+A. Consume information from a centralized risk register                 
+B. Identify and make decisions about information security risks            
+C. Plan for future cybersecurity projects and initiatives            
+D. Develop mitigating controls             
+Answer: B.             
 
-Risk assessment
+The purpose of a cyber-risk management program is to use various means to identify information- and technology-related risks in an organization and then study and make decisions about those risks through a process known as risk treatment.
 
-   C. The risk management process consists of risk assessments, analysis about risks that are identified by risk assessment, followed by discussions, and finally decisions about what to do about these risks.
-
-   A, B, and D are incorrect. A is incorrect because the steps in the question do not describe a vulnerability management process. B is incorrect because the steps in the question do not describe a risk treatment process. However, risk treatment is a part of the risk management process. D is incorrect because the steps in the question do not describe a risk management process. Risk assessment is a part of the risk management process.
-
-What is the purpose of a cyber-risk management program in an organization?
-
-Consume information from a centralized risk register
-
-Identify and make decisions about information security risks
-
-Plan for future cybersecurity projects and initiatives
-
-Develop mitigating controls
-
-   B. The purpose of a cyber-risk management program is to use various means to identify information- and technology-related risks in an organization and then study and make decisions about those risks through a process known as risk treatment.
-
-   A, C, and D are incorrect. A is incorrect because the purpose of a risk management program is not to consume information from the risk register, but instead to populate it and manage information there. C is incorrect because the core purpose of risk management is not long-term planning, but the management of risk. An output of the risk treatment process is a series of decisions that may result in one or more initiatives and projects to take place in the future. D is incorrect because this is too narrow a definition of risk management; while mitigating controls will sometimes be developed as a result of risk management, there are other outcomes as well.
+A, C, and D are incorrect. A is incorrect because the purpose of a risk management program is not to consume information from the risk register, but instead to populate it and manage information there. C is incorrect because the core purpose of risk management is not long-term planning, but the management of risk. An output of the risk treatment process is a series of decisions that may result in one or more initiatives and projects to take place in the future. D is incorrect because this is too narrow a definition of risk management; while mitigating controls will sometimes be developed as a result of risk management, there are other outcomes as well.
 
 All of the following activities are typical inputs into a risk management process except which one?
 
